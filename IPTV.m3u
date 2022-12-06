@@ -1,8 +1,8 @@
-#EXTINF:0 ,FIFA INDONESIA
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/gVWBEWLHEJYGkaeqmxAJS_TlzPU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-959596.jpg",WORLD CUP 1
 #EXTVLCOPT:network-caching=1000
 rtmp://id.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
-#EXTINF:0 ,FIFA INGGRIS
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/EkAkoewtAF8uwHad2u_EFUCDAMM=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-a24e9a.jpg",WORLD CUP 2
 #EXTVLCOPT:network-caching=1000
 rtmp://en.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
