@@ -1,8 +1,8 @@
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/gVWBEWLHEJYGkaeqmxAJS_TlzPU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-959596.jpg",WORLD CUP 1
+#EXTINF:0 ,WORLD CUP 1
 #EXTVLCOPT:network-caching=1000
 rtmp://id.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/EkAkoewtAF8uwHad2u_EFUCDAMM=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-a24e9a.jpg",WORLD CUP 2
+#EXTINF:0 ,WORLD CUP 2
 #EXTVLCOPT:network-caching=1000
 rtmp://en.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
@@ -100,19 +100,13 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.m
 #EXTINF:-1 ,MNC SPORTS 3
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PUohBJxY8EMdzVWBNXsMhMe3QOE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 ,SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1670364582~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=cd7281447527d44d6b01b50601f4448b257d29458dc3cd2f59630589ab67bfd1/vp9/204_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 ,INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1670364695~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=bcd1d1bd27c05a524e2acdbc10829860e2cc4d1ada298d514082eed8fa5c5b97/vp9/205_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 ,MOJI
 https://etslive-2-vidio-com.akamaized.net/exp=1670364361~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=017684ec16b12cb6b077e9c44f1fe13e4f7a630d8f6761a229ef1adaee7c2d40/vp9/206_stream.mpd
 
 #EXTINF:-1 ,USEE PHOTO
