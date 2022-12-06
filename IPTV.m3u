@@ -110,7 +110,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1670318610~acl=/vp9/205_stream.mpd
 #EXTINF:1 ,MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1670335367~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=b08c5a10f4a525f6e24e8fd019a0f56822057d167cf245b7f9396554214016ce/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670364361~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=017684ec16b12cb6b077e9c44f1fe13e4f7a630d8f6761a229ef1adaee7c2d40/vp9/206_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
