@@ -119,7 +119,7 @@ https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1670426750~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=24db142c90a3b04b7181d3958407f4d20ae3c275ced57beba65805c493ad9efd/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670432732~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=3dd76185aae750e5a7146f420b6b03e8808d03a6cfb04aafd8f7410a077cb241/vp9/204_stream.mpd
 
 #EXTINF:-1 ,SCTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -150,8 +150,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetIns
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 ,RCTI (RCTI+)
-#EXTVLCOPT:http-referrer=https://rcti-linier.rctiplus.id/
-https://rcti-linier.rctiplus.id/RCTI_2021.m3u8
+https://rcti-linier.rctiplus.id/RCTI_2021.m3u8|referer=https://rcti-linier.rctiplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
@@ -159,8 +158,7 @@ https://rcti-linier.rctiplus.id/RCTI_2021.m3u8
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 ,GTV (RCTI+)
-#EXTVLCOPT:http-referrer=https://video.sindonews.com/
-https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
+https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://video.sindonews.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
@@ -168,8 +166,7 @@ https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 ,MNCTV (RCTI+)
-#EXTVLCOPT:http-referrer=https://video.sindonews.com/
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8|referer=https://video.sindonews.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
@@ -177,8 +174,7 @@ https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3
 https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 ,INEWS (RCTI+)
-#EXTVLCOPT:http-referrer=https://video.sindonews.com/
-https://d25tjwq1t7aw0m.cloudfront.net/INEWS_2021.m3u8
+https://d25tjwq1t7aw0m.cloudfront.net/INEWS_2021.m3u8|referer=https://video.sindonews.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
