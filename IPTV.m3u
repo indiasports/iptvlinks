@@ -6,6 +6,10 @@ rtmp://id.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratist
 #EXTVLCOPT:network-caching=1000
 rtmp://en.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
+#EXTINF:0 ,BRI LIGA 1
+#EXTVLCOPT:network-caching=1000
+rtmp://liga1.indonesia.kawaguchimaeda.com/live/test
+
 #EXTINF:-1 ,ASTRO 1
 https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
 
