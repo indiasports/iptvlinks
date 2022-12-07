@@ -479,6 +479,18 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 ,FMN
 https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 ,MUSIC VIDEO 1 (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMtkk8LXf0wQ3VFAzoyN_og/live
+
+#EXTINF:-1 ,MUSIC VIDEO 2 (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/Depaiva1997/live
+
+#EXTINF:-1 ,MUSIC VIDEO 3 (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/wearediamond/live
+
+#EXTINF:-1 ,MUSIC VIDEO 4 (YOUTUBE)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@blackmagicmusic/live
+
 #EXTINF:-1 ,WORLD FASHION CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
