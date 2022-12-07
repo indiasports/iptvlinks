@@ -10,19 +10,19 @@ rtmp://en.9338973.16besar.pialadunia2022.hariselasa.06desember2022.qatar.gratist
 #EXTVLCOPT:network-caching=1000
 rtmp://liga1.indonesia.kawaguchimaeda.com/live/test
 
-#EXTINF:-1 tvg-logo="",ASTRO 1
+#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Astro_ASSP1.png",ASTRO 1
 https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="",ASTRO 2
+#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Astro_ASSP1.png",ASTRO 2
 https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="",FS1
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:2015_Fox_Sports_1_logo.svg",FS1
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="",SPORTV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SPORTV 1
 https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="",SPORTV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2
 https://webudi.openhd.lol/lb/premium79/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="",SPORT TV 1
