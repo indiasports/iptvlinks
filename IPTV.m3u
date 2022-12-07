@@ -119,13 +119,13 @@ https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1670432732~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=3dd76185aae750e5a7146f420b6b03e8808d03a6cfb04aafd8f7410a077cb241/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670436030~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=ccbb7a551d346a9be0adcc3762c6280992740a7e5fe98bf036536e9e1a4899e2/vp9/204_stream.mpd
 
 #EXTINF:-1 ,SCTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 ,INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1670410407~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=a99414f251b4a87dd25920122559379fb905d732284edc1c7d5d18c6d373b2ad/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670435989~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=abb5796eff8bcf06caf0439931d8d58573998cfb4485abe7622785997a180e3a/vp9/205_stream.mpd
 
 #EXTINF:-1 ,MOJI
 https://etslive-2-vidio-com.akamaized.net/exp=1670426812~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2596ff96238d86f7763ebe5451a69d4c020f76bdc05abb37e6b622f3782748c4/vp9/206_stream.mpd
