@@ -80,6 +80,18 @@ https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.
 #EXTINF:-1 ,TSN 5
 https://webudi.openhd.lol/lb/premium115/index.m3u8|referer=https://besthdplayer.click/
 
+#EXTINF:-1 ,BT SPORT 1
+https://webdi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 ,BT SPORT 2
+https://webdi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 ,BT SPORT 3
+https://webdi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 ,BT SPORT 4
+https://webdi.openhd.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 #EXTINF:-1 ,FIGHT SPORTS
@@ -103,8 +115,11 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.m
 #EXTINF:-1 ,MNC SPORTS 3
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
+#EXTINF:-1 ,TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1 ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1670410231~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=208b5076bc78b3a48978d414a008dd253285da6ea36aee5cccd83b7e5109cae1/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670426750~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=24db142c90a3b04b7181d3958407f4d20ae3c275ced57beba65805c493ad9efd/vp9/204_stream.mpd
 
 #EXTINF:-1 ,SCTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -113,7 +128,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1670410407~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=a99414f251b4a87dd25920122559379fb905d732284edc1c7d5d18c6d373b2ad/vp9/205_stream.mpd
 
 #EXTINF:-1 ,MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1670379713~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=fd0665396df185ce30f2f5a06194079bbf1ad4ab3fc6b63a66d82606e3ae5015/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670426812~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2596ff96238d86f7763ebe5451a69d4c020f76bdc05abb37e6b622f3782748c4/vp9/206_stream.mpd
 
 #EXTINF:-1 ,USEE PHOTO
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
