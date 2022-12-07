@@ -479,18 +479,6 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 ,FMN
 https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 ,MUSIC VIDEO 1 (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMtkk8LXf0wQ3VFAzoyN_og/live
-
-#EXTINF:-1 ,MUSIC VIDEO 2 (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/Depaiva1997/live
-
-#EXTINF:-1 ,MUSIC VIDEO 3 (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/wearediamond/live
-
-#EXTINF:-1 ,MUSIC VIDEO 4 (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@blackmagicmusic/live
-
 #EXTINF:-1 ,WORLD FASHION CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
@@ -646,3 +634,36 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/Officia
 
 #EXTINF:-1 ,MEDIA SUNNAH (YOUTUBE)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
+
+#EXTINF:-1 ,MUSIC VIDEO 1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMtkk8LXf0wQ3VFAzoyN_og/live
+
+#EXTINF:-1 ,MUSIC VIDEO 2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/Depaiva1997/live
+
+#EXTINF:-1 ,MUSIC VIDEO 3
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/wearediamond/live
+
+#EXTINF:-1 ,MUSIC VIDEO 4
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@blackmagicmusic/live
+
+#EXTINF:-1 ,MUSIC VIDEO 5
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@deepmood.5492/live
+
+#EXTINF:-1 ,MUSIC VIDEO 6
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@sunmusic-musicaelectronica4835/live
+
+#EXTINF:-1 ,MUSIC VIDEO 7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@laguterbaru79799/live
+
+#EXTINF:-1 ,MUSIC VIDEO 8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@lagukenangan1368/live
+
+#EXTINF:-1 ,MUSIC VIDEO 9
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@lalalandd/live
+
+#EXTINF:-1 ,MUSIC VIDEO 10
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live
+
+#EXTINF:-1 ,MUSIC VIDEO 11
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@edmclub2405/live
