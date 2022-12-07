@@ -32,7 +32,7 @@ https://webudi.openhd.lol/lb/premium74/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 ,SPOTV
 https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
-#EXTINF:-1 ,SPOTV HD
+#EXTINF:-1 ,SPOTV (OFFICIAL)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -40,7 +40,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 ,SPOTV 2
 https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 ,SPOTV 2 HD
+#EXTINF:-1 ,SPOTV 2 (OFFICIAL)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 ,RED BULL TV
@@ -82,10 +82,10 @@ https://webudi.openhd.lol/lb/premium115/index.m3u8|referer=https://besthdplayer.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,FIGHT SPORTS 1
+#EXTINF:-1 ,FIGHT SPORTS
 https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 ,FIGHT SPORTS 2
+#EXTINF:-1 ,FIGHT SPORTS (OFFICIAL)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -103,10 +103,10 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.m
 #EXTINF:-1 ,MNC SPORTS 3
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 ,SCTV 1
+#EXTINF:-1 ,SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1670410231~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=208b5076bc78b3a48978d414a008dd253285da6ea36aee5cccd83b7e5109cae1/vp9/204_stream.mpd
 
-#EXTINF:-1 ,SCTV 2
+#EXTINF:-1 ,SCTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 ,INDOSIAR
@@ -131,55 +131,54 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetIns
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,RCTI 1
+#EXTINF:-1 ,RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 ,RCTI 2
+#EXTINF:-1 ,RCTI (RCTI+)
 #EXTVLCOPT:http-referrer=https://rcti-linier.rctiplus.id/
-#https://rcti-linier.rctiplus.id/RCTI2022.m3u8
 https://rcti-linier.rctiplus.id/RCTI_2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,GTV 1
+#EXTINF:-1 ,GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 ,GTV 2
+#EXTINF:-1 ,GTV (RCTI+)
 #EXTVLCOPT:http-referrer=https://video.sindonews.com/
 https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,MNCTV 1
+#EXTINF:-1 ,MNCTV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 ,MNCTV 2
+#EXTINF:-1 ,MNCTV (RCTI+)
 #EXTVLCOPT:http-referrer=https://video.sindonews.com/
 https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,INEWS 1
+#EXTINF:-1 ,INEWS
 https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 ,INEWS 2
+#EXTINF:-1 ,INEWS (RCTI+)
 #EXTVLCOPT:http-referrer=https://video.sindonews.com/
 https://d25tjwq1t7aw0m.cloudfront.net/INEWS_2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,TRANSTV 1
+#EXTINF:-1 ,TRANSTV
 https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 ,TRANSTV 2
+#EXTINF:-1 ,TRANSTV (TRANSVISION)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w705895879_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,TRANS7 1
+#EXTINF:-1 ,TRANS7
 https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 ,TRANS7 2
+#EXTINF:-1 ,TRANS7 (TRANSVISION)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w565342514_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -192,10 +191,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,ANTV 1
+#EXTINF:-1 ,ANTV
 https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 ,ANTV 2
+#EXTINF:-1 ,ANTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -208,10 +207,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,METROTV 1
+#EXTINF:-1 ,METROTV
 https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 ,METROTV 2
+#EXTINF:-1 ,METROTV (OFFICIAL)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 ,METROTV (YOUTUBE)
@@ -219,10 +218,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/Metrotv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,KOMPASTV 1
+#EXTINF:-1 ,KOMPASTV
 https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 ,KOMPASTV 2
+#EXTINF:-1 ,KOMPASTV (OFFICIAL)
 https://video.jixie.media/live-test/kompastv.m3u8
 
 #EXTINF:-1 ,CNN INDONESIA
@@ -233,10 +232,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,BERITASATU 1
+#EXTINF:-1 ,BTV
 https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 ,BERITASATU 2
+#EXTINF:-1 ,BTV (OFFICIAL)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 ,BERITASATU WORLD
@@ -244,18 +243,18 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,TVRI 1
+#EXTINF:-1 ,TVRI
 https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 ,TVRI 2
+#EXTINF:-1 ,TVRI (OFFICIAL)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,BALI TV 1
+#EXTINF:-1 ,BALI TV
 https://av-live-cdn-01.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 ,BALI TV 2
+#EXTINF:-1 ,BALI TV (IP INDO)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -309,10 +308,10 @@ https://av-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 ,NHK WORLD 1
+#EXTINF:-1 ,NHK WORLD
 https://av-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 ,NHK WORLD 2
+#EXTINF:-1 ,NHK WORLD (OFFICIAL)
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8
 
@@ -432,25 +431,25 @@ https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 ,KIX
 https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 ,MY CINEMA ASIA
+#EXTINF:-1 ,MY CINEMA ASIA (IP INDO)
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 ,MY FAMILY CHANNEL
+#EXTINF:-1 ,MY FAMILY CHANNEL (IP INDO)
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 ,MY KIDZ
+#EXTINF:-1 ,MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1 ,BIZNET ADVENTURE
+#EXTINF:-1 ,BIZNET ADVENTURE (IP INDO)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 
-#EXTINF:-1 ,BIZNET KIDS
+#EXTINF:-1 ,BIZNET KIDS (IP INDO)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1 ,BIZNET LIFESTYLE
+#EXTINF:-1 ,BIZNET LIFESTYLE (IP INDO)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
-#EXTINF:-1 ,ZEE BIOSKOP
+#EXTINF:-1 ,ZEE BIOSKOP (IP INDO)
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -463,7 +462,7 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 ,FMN
 https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 ,WORLD FASHION CHANNEL INTERNATIONAL
+#EXTINF:-1 ,WORLD FASHION CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -613,7 +612,7 @@ https://av-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 ,MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 ,MTATV (YOUTUBE)
+#EXTINF:-1 ,MTA TV (YOUTUBE)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
 
 #EXTINF:-1 ,MEDIA SUNNAH (YOUTUBE)
