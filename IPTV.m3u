@@ -101,13 +101,13 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.m
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 ,SCTV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1670379632~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=6c427bd348ffbd2eb9cd17daadf708d4cf80e722deac2b50e6c62017dba3be50/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670410231~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=208b5076bc78b3a48978d414a008dd253285da6ea36aee5cccd83b7e5109cae1/vp9/204_stream.mpd
 
 #EXTINF:-1 ,SCTV 2
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 ,INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1670383703~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=6e2223c2862055ccaa172e038af1705ca0f2af767112cc2e763195889a41a27d/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670410407~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=a99414f251b4a87dd25920122559379fb905d732284edc1c7d5d18c6d373b2ad/vp9/205_stream.mpd
 
 #EXTINF:-1 ,MOJI
 https://etslive-2-vidio-com.akamaized.net/exp=1670379713~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=fd0665396df185ce30f2f5a06194079bbf1ad4ab3fc6b63a66d82606e3ae5015/vp9/206_stream.mpd
