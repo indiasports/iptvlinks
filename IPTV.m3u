@@ -100,8 +100,11 @@ https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.m
 #EXTINF:-1 ,MNC SPORTS 3
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 ,SCTV
+#EXTINF:-1 ,SCTV 1
 https://etslive-2-vidio-com.akamaized.net/exp=1670379632~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=6c427bd348ffbd2eb9cd17daadf708d4cf80e722deac2b50e6c62017dba3be50/vp9/204_stream.mpd
+
+#EXTINF:-1 ,SCTV 2
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 ,INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1670383703~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=6e2223c2862055ccaa172e038af1705ca0f2af767112cc2e763195889a41a27d/vp9/205_stream.mpd
