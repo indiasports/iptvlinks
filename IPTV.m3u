@@ -132,6 +132,9 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="",INDOSIAR
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
+#EXTINF:-1 tvg-logo="",INDOSIAR (IP INDO)
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
 #EXTINF:-1 tvg-logo="",MOJI
 https://etslive-2-vidio-com.akamaized.net/exp=1670511128~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=10185c0da50a73b9180b1cb8125bef199d1aa8922d82fcbe327350f6c6fd054e/vp9/206_stream.mpd
 
