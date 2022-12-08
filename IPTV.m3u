@@ -120,13 +120,13 @@ https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1670496451~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=3645a733ae97c69a3f57e5b3d8f0903e467506f06f418cc1dfbe8b465e65c27c/vp9/204_stream.mpd
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="",SCTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-logo="",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1670496553~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=d04ce86844d6abe106f92dbde5a086b39ebb7f494ce2d7eef8eafd2f4feb2aa3/vp9/205_stream.mpd
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="",MOJI
 https://etslive-2-vidio-com.akamaized.net/exp=1670426812~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2596ff96238d86f7763ebe5451a69d4c020f76bdc05abb37e6b622f3782748c4/vp9/206_stream.mpd
