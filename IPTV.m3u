@@ -1,9 +1,12 @@
+#UPDATE 1 JAM SEBELUM LAGA DIMULAI
 #EXTINF:0 tvg-logo="",WORLD CUP 1
 #EXTVLCOPT:network-caching=1000
 
+#UPDATE 1 JAM SEBELUM LAGA DIMULAI
 #EXTINF:0 tvg-logo="",WORLD CUP 2
 #EXTVLCOPT:network-caching=1000
 
+#UPDATE 1 JAM SEBELUM LAGA DIMULAI
 #EXTINF:0 tvg-logo="",BRI LIGA 1
 #EXTVLCOPT:network-caching=1000
 rtmp://liga1.283729.gratis.muhamadaqilfarhan.indonesia.kawaguchimaeda.com/live/test
@@ -130,7 +133,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1670426812~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2596ff96238d86f7763ebe5451a69d4c020f76bdc05abb37e6b622f3782748c4/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670511128~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=10185c0da50a73b9180b1cb8125bef199d1aa8922d82fcbe327350f6c6fd054e/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="",USEE PHOTO
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
