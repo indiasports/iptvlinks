@@ -140,6 +140,9 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="",MOJI
 https://etslive-2-vidio-com.akamaized.net/exp=1670640315~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=f80eb0d1f6c314af746f70a25f9662b9cfa73b6ef836892e8af88d3f8bb4786b/vp9/206_stream.mpd
 
+#EXTINF:-1 tvg-logo="",MOJI (IP INDO)
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
 #EXTINF:-1 tvg-logo="",USEE PHOTO
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
