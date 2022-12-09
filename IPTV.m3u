@@ -138,7 +138,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1670586071~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=513527077bd728b7010bec03b4e9fb96bdd8e4e31721d274cab912d4889f4c9a/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670610543~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=dabb82854411abe468aef679e850d2a64236c70a545c85ec0a6a6027249ddc1a/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="",USEE PHOTO
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
