@@ -502,8 +502,14 @@ https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="",KIX
 https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+#EXTINF:-1 tvg-logo="",MY CINEMA (IP INDO)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
 #EXTINF:-1 tvg-logo="",MY CINEMA ASIA (IP INDO)
 http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="",MY CINEMA EUROPE (IP INDO)
+http://210.210.155.37/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="",MY FAMILY CHANNEL (IP INDO)
 http://210.210.155.37/uq2663/h/h194/index.m3u8
