@@ -1,17 +1,14 @@
-#UPDATE 1 JAM SEBELUM LAGA DIMULAI
 #EXTINF:0 tvg-logo="",WORLD CUP 1
 #EXTVLCOPT:network-caching=1000
 rtmp://id.52128200.8besar.pialadunia2022.harijumat.09desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
-#UPDATE 1 JAM SEBELUM LAGA DIMULAI
 #EXTINF:0 tvg-logo="",WORLD CUP 2
 #EXTVLCOPT:network-caching=1000
 rtmp://en.52128200.8besar.pialadunia2022.harijumat.09desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 
-#UPDATE 1 JAM SEBELUM LAGA DIMULAI
 #EXTINF:0 tvg-logo="",BRI LIGA 1
 #EXTVLCOPT:network-caching=1000
-rtmp://liga1.382929.gratis.muhamadaqilfarhan.indonesia.kawaguchimaeda.com/live/test
+https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/186db27f40da63b00e49e34b8b174408/manifest/video.mpd
 
 #EXTINF:-1 tvg-logo="",ASTRO 1
 https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
