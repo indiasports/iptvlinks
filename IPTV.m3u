@@ -502,6 +502,9 @@ https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="",KIX
 https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+#EXTINF:-1 tvg-logo="",BOO
+http://23.237.10.66:16420
+
 #EXTINF:-1 tvg-logo="",MY CINEMA (IP INDO)
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
