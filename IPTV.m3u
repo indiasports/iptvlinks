@@ -119,15 +119,6 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",HORIZON SPORTS (IP INDO)
-http://210.210.155.37/uq2663/h/h282/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",MOTORRACING (IP INDO)
-http://210.210.155.37/uq2663/h/h223/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",MOTORVISION (IP INDO)
-http://210.210.155.37/uq2663/h/h09/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
@@ -557,10 +548,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 #EXTINF:-1 tvg-logo="" group-title="Rekreasi",USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",BIZNET ADVENTURE (IP INDO)
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",BIZNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",BIZNET LIFESTYLE (IP INDO)
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -627,7 +618,7 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Anak",BIZNET KIDS (IP INDO)
+#EXTINF:-1 tvg-logo="" group-title="Anak",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
