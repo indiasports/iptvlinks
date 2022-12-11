@@ -10,6 +10,11 @@ https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://streamservicehd.click/
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",TUDN
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORTV 1
 https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://streamservicehd.click/
 
