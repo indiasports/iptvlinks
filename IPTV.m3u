@@ -1,21 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WC INDONESIA 1
-https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/dd5b2ffaedd77b2853396a167f1af98c/manifest/video.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WC INDONESIA 2
-https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/83d23e97f1e1d01a40f907d71a90d8d6/manifest/video.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WC INDONESIA 3
-https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/0482b9e5368add346031566c3fa2f364/manifest/video.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WC INGGRIS 1
-https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/e3554b08795c86b49a694820c19e8938/manifest/video.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WC INGGRIS 2
-https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/e77a8f11be593f437144accca0bd5b48/manifest/video.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WC INGGRIS 3
-https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/0652d2eaa199ee94cc07a40266c0f692/manifest/video.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BRI LIGA 1
 https://customer-b4zcw3bklnk7ccew.cloudflarestream.com/186db27f40da63b00e49e34b8b174408/manifest/video.mpd
 
@@ -144,7 +126,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1670711830~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=94317f7e17e26eaf122c690965801ad21be865172246b20838a2ee876f355c22/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670743366~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=1a28f64cdeac43b3cead6ba3758bddd92160f5ad1409560ffef6caf1b8515128/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
