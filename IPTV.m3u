@@ -128,7 +128,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-etslive-2-vidio-com.akamaized.net/exp=1670799627~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=ad008be8ae8f07202a903fc6f50e5ab6fdc5a7d68d754346c7cbd7079a244ee4/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670854341~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=eea57f588cefa2a027458a16fc7d54cf8a959149dd525bbc12ecefa833b610a1/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -612,7 +612,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1670841604~acl=/hls-p/ingest_8237_*/*~hmac=b37cbc68a5293ffac1901a0b18f69618c9f9d66244112a1048b801858ccc74df/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1670854440~acl=/hls-p/ingest_8237_*/*~hmac=14ee514e4cd492f871c61ea939b6edf03a2fb054b904cd140637394185139ad1/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
