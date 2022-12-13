@@ -139,7 +139,7 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 https://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",NET (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -208,7 +208,7 @@ http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 https://liveaneviadev.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",TVONE (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -219,7 +219,7 @@ https://liveaneviadev.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",METROTV (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MetrotvnewsOfficial/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MetrotvnewsOfficial/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -230,7 +230,7 @@ https://liveaneviadev.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://video.jixie.media/live-test/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",KOMPASTV (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/kompastv/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/kompastv/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -277,7 +277,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1553194862_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Berita",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w636491043_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -288,7 +288,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Berita",BTV (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/BeritaSatuChannel/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/BeritaSatuChannel/live
 
 #EXTINF:-1 tvg-logo="" group-title="Berita",BERITASATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
@@ -310,7 +310,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Berita",ALJAZEERA (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -485,7 +485,7 @@ https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",NHK WORLD (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",CINELIFE
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
@@ -706,7 +706,7 @@ https://liveaneviadev.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",MTA TV (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",MEDIA SUNNAH (YOUTUBE)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
