@@ -116,21 +116,19 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
-#http://mpwtv.my.id/vidioye/204-sctv.m3u8
-http://45.55.129.64/test.m3u8
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV (IP INDO)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",INDOSIAR
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-http://167.99.116.207/test.m3u8
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",INDOSIAR (IP INDO)
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1670940579~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=c68aa5e61a6fd760203644b4341224e2499d123433ab3ac63fddb9b10de4db89/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1670979882~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=8408b8d541b5f46392db8de68fdbbccbf0b7c3d1c6399a1bd86da8bd206d669e/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -614,7 +612,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1670949155~acl=/hls-p/ingest_8237_*/*~hmac=28132beee7cf93fb70f3fd8cc3ac377d715c4790efedbe6c8a8595b4fd1b90a2/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1670979994~acl=/hls-p/ingest_8237_*/*~hmac=77bcf9733501b3d667ee2a408ad303d7580b3b00038c3db8a7a51b35d4ca0bbf/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
