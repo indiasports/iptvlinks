@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BRI LIGA 1
-http://liga1muhamadaqilfarhangratisgakperlubayar.channel3kawaguchimaeda.my.id/ligasatuindonesia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP INDONESIA
+http://server2idnkawaguchimaedagratis.d76c75e780f1e7f432ab116bea3eaf4fdaa58115.biz.id:2052/muhamadaqilfarhan.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP INGGRIS
+http://server2engkawaguchimaedagratis.3a6686bd00a1825c0db77438862b8b07961a2854.biz.id:2052/muhamadaqilfarhan.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO 1
 https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
