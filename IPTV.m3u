@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP INDONESIA
-http://server2idnkawaguchimaedagratis.d76c75e780f1e7f432ab116bea3eaf4fdaa58115.biz.id:2052/muhamadaqilfarhan.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP INGGRIS
-http://server2engkawaguchimaedagratis.3a6686bd00a1825c0db77438862b8b07961a2854.biz.id:2052/muhamadaqilfarhan.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO 1
 https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
 
@@ -13,16 +7,20 @@ https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://streamservicehd.click/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TUDN
-https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+https://webdi.openhd.lol/lb/premium66/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORTV 1
 https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORTV 2
 https://webudi.openhd.lol/lb/premium79/index.m3u8?|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1
+https://webdi.openhd.lol/lb/premium61/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3
+https://webdi.openhd.lol/lb/premium46/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORT TV 1
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
