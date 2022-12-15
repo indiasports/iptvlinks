@@ -1,11 +1,20 @@
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 1
 https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 2
 https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 1
+https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 2
+https://webdi.openhd.lol/lb/premium433/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 3
+https://webdi.openhd.lol/lb/premium434/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
-https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://streamservicehd.click/
+https://webudi.openhd.lol/lb/premium379/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TUDN
 https://webdi.openhd.lol/lb/premium66/index.m3u8|referer=https://streamservicehd.click/
@@ -16,11 +25,56 @@ https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://streamservice
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORTV 2
 https://webudi.openhd.lol/lb/premium79/index.m3u8?|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORTV 3
+https://webudi.openhd.lol/lb/premium80/index.m3u8?|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1 ENGLISH
 https://webdi.openhd.lol/lb/premium61/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 2 ENGLISH
+https://webdi.openhd.lol/lb/premium90/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3 ENGLISH
 https://webdi.openhd.lol/lb/premium46/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1 ARAB
+https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 2 ARAB
+https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3 ARAB
+https://webdi.openhd.lol/lb/premium93/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 4 ARAB
+https://webdi.openhd.lol/lb/premium94/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 5 ARAB
+https://webdi.openhd.lol/lb/premium95/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 6 ARAB
+https://webdi.openhd.lol/lb/premium96/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1 PREMIUM
+https://webdi.openhd.lol/lb/premium98/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 2 PREMIUM
+https://webdi.openhd.lol/lb/premium99/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3 PREMIUM
+https://webdi.openhd.lol/lb/premium100/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1 MAX
+https://webdi.openhd.lol/lb/premium296/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 2 MAX
+https://webdi.openhd.lol/lb/premium297/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3 MAX
+https://webdi.openhd.lol/lb/premium298/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 4 MAX
+https://webdi.openhd.lol/lb/premium299/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORT TV 1
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -104,6 +158,9 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",WWE NETWORK
 https://webdi.openhd.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Z RACING
+https://webdi.openhd.lol/lb/premium396/index.m3u8|referer=https://streamservicehd.click/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",MNC SPORTS
@@ -138,7 +195,7 @@ https://webdi.openhd.lol/lb/premium191/index.m3u8|referer=https://streamserviceh
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1671092626~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=14df0bdd466e3200494b21f22662bc367ec91ec4b105d984340fbb2a1d65855c/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671135663~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=f6c7295b79c8e898a237a5e948c24cbd973fe9021e8d8c74b8336832ecb68156/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
