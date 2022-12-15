@@ -4,15 +4,6 @@ https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 2
 https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 1
-https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 2
-https://webdi.openhd.lol/lb/premium433/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 3
-https://webdi.openhd.lol/lb/premium434/index.m3u8|referer=https://streamservicehd.click/
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 1
 https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
 
@@ -113,9 +104,6 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPOTV 2 (OFFICIAL)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TRUE SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -125,6 +113,15 @@ https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA SPORT 1
+https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA SPORT 2
+https://webdi.openhd.lol/lb/premium433/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA SPORT 3
+https://webdi.openhd.lol/lb/premium434/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA 1 PREMIUM
 https://webudi.openhd.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -172,6 +169,9 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",WWE NETWORK
 https://webdi.openhd.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Z RACING
 https://webdi.openhd.lol/lb/premium396/index.m3u8|referer=https://streamservicehd.click/
