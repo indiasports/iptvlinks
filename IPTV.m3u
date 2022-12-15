@@ -13,6 +13,21 @@ https://webdi.openhd.lol/lb/premium433/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SPORT 3
 https://webdi.openhd.lol/lb/premium434/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 1
+https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 2
+https://webdi.openhd.lol/lb/premium124/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 3
+https://webdi.openhd.lol/lb/premium125/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 4
+https://webdi.openhd.lol/lb/premium126/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 5
+https://webdi.openhd.lol/lb/premium43/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webudi.openhd.lol/lb/premium379/index.m3u8?|referer=https://streamservicehd.click/
 
@@ -679,7 +694,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1671109619~acl=/hls-p/ingest_8237_*/*~hmac=2e2ab8b70bd7b73f2bd3dc0cca017a6f300dfcbd6f930a2f2bad3e7b147324be/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671136741~acl=/hls-p/ingest_8237_*/*~hmac=b82676d6fbeccba56bae922c627ae545a40ed017169c0eae9af8e6201d8f1a1b/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
