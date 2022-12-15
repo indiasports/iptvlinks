@@ -135,7 +135,7 @@ https://webdi.openhd.lol/lb/premium191/index.m3u8|referer=https://streamserviceh
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1671054496~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=da6701153bb6aa23403e32f78ac9367d1472421981f2b063db3598aa1ecdb5e6/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671092626~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=14df0bdd466e3200494b21f22662bc367ec91ec4b105d984340fbb2a1d65855c/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -619,7 +619,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1671017036~acl=/hls-p/ingest_8237_*/*~hmac=45b09a5a23d7123d4d83ff7c26b5bc039e27ae4c6c6ef541a0e3eea437ef5c57/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671092570~acl=/hls-p/ingest_8237_*/*~hmac=32d9d761e11d72ee24d4c75bee45f7fc38c603b9c684cb60e8ea79c9af4a1f8c/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
