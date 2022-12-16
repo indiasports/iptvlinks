@@ -4,21 +4,6 @@ https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 2
 https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 1
-https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 2
-https://webdi.openhd.lol/lb/premium124/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 3
-https://webdi.openhd.lol/lb/premium125/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 4
-https://webdi.openhd.lol/lb/premium126/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO SUPERSPORT 5
-https://webdi.openhd.lol/lb/premium43/index.m3u8|referer=https://streamservicehd.click/
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webdi.openhd.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
 
@@ -87,6 +72,9 @@ https://webdi.openhd.lol/lb/premium49/index.m3u8|referer=https://streamservicehd
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORT TV 2
 https://webdi.openhd.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORT TV 3
+https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -173,7 +161,7 @@ https://webdi.openhd.lol/lb/premium376/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Z RACING
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ZIGGO SPORT RACING
 https://webdi.openhd.lol/lb/premium396/index.m3u8|referer=https://streamservicehd.click/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -210,7 +198,7 @@ https://webdi.openhd.lol/lb/premium191/index.m3u8|referer=https://streamserviceh
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1671135663~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=f6c7295b79c8e898a237a5e948c24cbd973fe9021e8d8c74b8336832ecb68156/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671207097~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=e12d4fae4b8bf2391f58156e785e82241e84fffb0b0a8ce2e59d1f5412d1534b/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -694,7 +682,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1671136741~acl=/hls-p/ingest_8237_*/*~hmac=b82676d6fbeccba56bae922c627ae545a40ed017169c0eae9af8e6201d8f1a1b/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671207168~acl=/hls-p/ingest_8237_*/*~hmac=4c3d0f657b0c1b617f22a49c6820a1a7eaec52a024cbcf00bd03222f4cff6e00/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
