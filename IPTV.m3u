@@ -1,8 +1,11 @@
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BRI LIGA 1
+http://e6805eed850d0bf0bfd58a02cff914388a6159b3.biz.id/liga1muhamadaqilfarhangratisgakperlubayar.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 1
-https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
+#https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 2
-https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamservicehd.click/
+#https://webdi.openhd.lol/lb/premium295/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webdi.openhd.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
@@ -192,7 +195,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",INDOSIAR
-https://webdi.openhd.lol/lb/premium191/index.m3u8|referer=https://streamservicehd.click/
+#https://webdi.openhd.lol/lb/premium191/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",INDOSIAR (IP INDO)
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
