@@ -1,5 +1,11 @@
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BRI LIGA 1
-http://e6805eed850d0bf0bfd58a02cff914388a6159b3.biz.id/liga1muhamadaqilfarhangratisgakperlubayar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",WORLD CUP 1
+http://indo1.235242999b5013ef1d8d695432c555e123d86f23.biz.id/semogayangnontondirtmpsayajadiorangsuksessemuaaamiin.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",WORLD CUP 2
+http://eng1.235242999b5013ef1d8d695432c555e123d86f23.biz.id/semogayangnontondirtmpsayajadiorangsuksessemuaaamiin.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",WORLD CUP 3
+http://eng2.235242999b5013ef1d8d695432c555e123d86f23.biz.id/semogayangnontondirtmpsayajadiorangsuksessemuaaamiin.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 1
 #https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
