@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 1
+http://idn1perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 2
+http://idn2perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 3
+http://eng1perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 4
+http://eng2perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 5
+http://eng3perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 6
+http://eng4perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webdi.openhd.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
 
@@ -216,8 +234,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",INDOSIAR
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-http://ch1.themaraudersmap.xyz/gratisnonton.m3u8
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",INDOSIAR (IP INDO)
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
