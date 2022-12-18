@@ -1,12 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",WORLD CUP 1
-http://indo1.235242999b5013ef1d8d695432c555e123d86f23.biz.id/semogayangnontondirtmpsayajadiorangsuksessemuaaamiin.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",WORLD CUP 2
-http://eng1.235242999b5013ef1d8d695432c555e123d86f23.biz.id/semogayangnontondirtmpsayajadiorangsuksessemuaaamiin.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",WORLD CUP 3
-http://eng2.235242999b5013ef1d8d695432c555e123d86f23.biz.id/semogayangnontondirtmpsayajadiorangsuksessemuaaamiin.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ASTRO WORLD CUP 1
 #https://webdi.openhd.lol/lb/premium294/index.m3u8|referer=https://streamservicehd.click/
 
@@ -120,6 +111,12 @@ https://webdi.openhd.lol/lb/premium433/index.m3u8|referer=https://streamserviceh
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA SPORT 3
 https://webdi.openhd.lol/lb/premium434/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA SPORT 4
+https://webdi.openhd.lol/lb/premium581/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA SPORT 5
+https://webdi.openhd.lol/lb/premium151/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ARENA 1 PREMIUM
 https://webudi.openhd.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -173,6 +170,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ZIGGO SPORT RACING
 https://webdi.openhd.lol/lb/premium396/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ZIGGO SPORT DOCU
+https://webdi.openhd.lol/lb/premium383/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ZIGGO SPORT SELECT
+https://webdi.openhd.lol/lb/premium393/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ZIGGO SPORT VOETBAL
+https://webdi.openhd.lol/lb/premium398/index.m3u8|referer=https://streamservicehd.click/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",MNC SPORTS
@@ -207,7 +213,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1671207097~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=e12d4fae4b8bf2391f58156e785e82241e84fffb0b0a8ce2e59d1f5412d1534b/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671337798~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=dbdf26ad4998b7ffbef97a8085335c9d06823ffd0f6e1ad606a64039f0554035/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -691,7 +697,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1671273939~acl=/hls-p/ingest_8237_*/*~hmac=bebea59caa7a08e91f3ad339fbde048483c66e8fd96d9aeb689c7431b1997ada/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671337863~acl=/hls-p/ingest_8237_*/*~hmac=a9e19b86ba49fcdb1a3d2d6bdfcedcaa1d41ea6b05b8aea486d80c869af1e9e5/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
