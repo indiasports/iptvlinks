@@ -707,7 +707,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MENTARI TV
-https://live-production.secureswiftcontent.com/exp=1671359532~acl=/hls-p/ingest_8237_*/*~hmac=cd7fcf80968589664380a8131fba65ff0fbadfead522a4c80810084e2ab8568b/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671378669~acl=/hls-p/ingest_8237_*/*~hmac=b3af779bfd520149999c02d26891343375f80b78f5364054ef219e51cfa07fdd/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",MY KIDZ (IP INDO)
 http://210.210.155.37/uq2663/h/h191/index.m3u8
