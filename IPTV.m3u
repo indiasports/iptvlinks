@@ -1,21 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 1
-http://idn1perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 2
-http://idn2perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 3
-http://eng1perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 4
-http://eng2perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 5
-http://eng3perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="World Cup",WORLD CUP 6
-http://eng4perancismenang.themaraudersmap.xyz/kawaguchimaeda.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 https://webdi.openhd.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
 
@@ -560,7 +542,10 @@ https://liveaneviadev.mncnow.id/live/eds/Hits/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",ARIRANG
-https://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#https://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
