@@ -269,7 +269,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI
-https://etslive-2-vidio-com.akamaized.net/exp=1671464924~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=fa8f81dbd1816667d362ddd29e4e27532ee13e9ca1e9482ddaefe15ff98502df/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671465444~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2e39fa0d9d79c7a8d714181f29d5c9c93d1ccde8dc9b3b6ca61fd9f18b686a76/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",MOJI (IP INDO)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
