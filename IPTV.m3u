@@ -19,12 +19,12 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 ID
-https://liveaneviadev.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#https://liveaneviadev.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 ID
-https://liveaneviadev.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#https://liveaneviadev.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 English
 #https://webdi.openhd.lol/lb/premium61/index.m3u8|referer=https://streamservicehd.click/
@@ -196,6 +196,31 @@ https://www.livedoomovies.com:4431/02_sport6_480p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 1
 #https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
 
@@ -265,8 +290,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",WWE Network
-#https://webdi.openhd.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Red Bull TV
@@ -285,10 +309,22 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #https://webdi.openhd.lol/lb/premium398/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Abu Dhabi Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Abu Dhabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Horizon Sports
 http://210.210.155.37/uq2663/h/h282/index.m3u8
