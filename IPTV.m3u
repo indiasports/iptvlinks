@@ -226,6 +226,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ZIGGO SPORT VOETBAL
 #https://webdi.openhd.lol/lb/premium398/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",HORIZON SPORTS (IP INDO)
+http://210.210.155.37/uq2663/h/h282/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",MOTORRACING (IP INDO)
+http://210.210.155.37/uq2663/h/h223/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",MOTORVISION (IP INDO)
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",MNC SPORTS
@@ -471,6 +480,9 @@ https://liveaneviadev.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNews
 #EXTINF:-1 tvg-logo="" group-title="Berita",IDX CHANNEL
 https://liveaneviadev.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Berita",WION (IP INDO)
+http://210.210.155.37/uq2663/h/h91/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",HBO
@@ -628,7 +640,7 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",K+ (IP INDO)
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",ROCK EXTREME (IP INDO)
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",ROCK ACTION (IP INDO)
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",ROCK ENTERTAINMENT (IP INDO)
