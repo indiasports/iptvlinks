@@ -31,6 +31,16 @@
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPORTV 3
 #https://webdi.openhd.lol/lb/premium80/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BEIN SPORTS 1 ENGLISH
 #https://webdi.openhd.lol/lb/premium61/index.m3u8|referer=https://streamservicehd.click/
 
