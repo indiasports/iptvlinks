@@ -396,19 +396,21 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://iptvid.my.id/hmm/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Indosiar
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Indosiar
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+http://iptvid.my.id/hmm/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
 http://iptvid.my.id/hmm/ochannel.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -471,6 +473,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sl
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Lokal",RTV
 https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Lokal",RTV
+http://iptvid.my.id/hmm/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -575,13 +580,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w636491043_b3
 #EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu
 https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",BeritaSatu
+#EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/BeritaSatuChannel/live
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",BeritaSatu
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/BeritaSatuChannel/live
-
-#EXTINF:-1 tvg-logo="" group-title="Berita",BeritaSatu World
+#EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -591,10 +594,10 @@ https://liveaneviadev.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Berita",TVRI
+#EXTINF:-1 tvg-logo="" group-title="Berita",TVRI Nasional
 https://liveaneviadev.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",TVRI
+#EXTINF:-1 tvg-logo="" group-title="Berita",TVRI Nasional
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Berita",RRI NET
@@ -650,10 +653,10 @@ https://liveaneviadev.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Berita",CNA International
+#EXTINF:-1 tvg-logo="" group-title="Berita",CNA
 https://liveaneviadev.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",CNA International
+#EXTINF:-1 tvg-logo="" group-title="Berita",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -707,7 +710,7 @@ https://liveaneviadev.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEnterta
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Vision Prime
 https://liveaneviadev.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Digione
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",DigiOne
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Dunia Sinema
@@ -740,10 +743,10 @@ https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",CCM
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movie
 https://liveaneviadev.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",CCM
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movie
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
@@ -911,7 +914,7 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Lifetime
 https://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Paramount Network
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Paramount
 http://iptvid.my.id/hmm/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Dens Play
