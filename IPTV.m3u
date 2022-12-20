@@ -311,6 +311,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Voetbal
 #https://webdi.openhd.lol/lb/premium398/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Match!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
 
@@ -354,6 +359,10 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",NBA TV
 http://iptvid.my.id/hmm/nba.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -869,6 +878,9 @@ http://iptvid.my.id/hmm/ikonser.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Musik Indo
 http://iptvid.my.id/hmm/musikindo.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Maleo
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Mola Hits
 http://ventdelnord.tv:8080/mola/directe.m3u8
