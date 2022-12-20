@@ -374,6 +374,12 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",USee Sports 1
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",USee Sports 2
+http://iptvid.my.id/hmm/useetl2.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
@@ -387,7 +393,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
-https://etslive-2-vidio-com.akamaized.net/exp=1671488567~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=c77d6d7dd55e1ef925f5e12e7798df198cfb3bb80c57c7cb70d4fb7efc74fb9c/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1671524280~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=79190c7b35d1d64d5d66458497fda3ded61149b80e5a0b6b0c34891c558f5b25/vp9/206_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -399,6 +405,7 @@ https://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",NET
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
+http://iptvid.my.id/hmm/net.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -463,10 +470,10 @@ http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Lokal",TV One
+#EXTINF:-1 tvg-logo="" group-title="Lokal",TVOne
 https://liveaneviadev.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Lokal",TV One
+#EXTINF:-1 tvg-logo="" group-title="Lokal",TVOne
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -548,16 +555,16 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w636491043_b3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Berita",BTV
+#EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu
 https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",BTV
+#EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",BTV
+#EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/BeritaSatuChannel/live
 
-#EXTINF:-1 tvg-logo="" group-title="Berita",Beritasatu World
+#EXTINF:-1 tvg-logo="" group-title="Berita",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -701,19 +708,19 @@ https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movies
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movie
 https://liveaneviadev.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movies
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movie
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Movies
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Movie
 https://liveaneviadev.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Movies
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Movie
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
@@ -863,10 +870,10 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Toon Googles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Usee Photo
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",USee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Usee Prime
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",USee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Rekreasi",Biznet Adventure
@@ -886,7 +893,7 @@ http://210.210.155.35/x6bnqe/s/s38/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Asia Food Networl
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Asia Food Network
 https://liveaneviadev.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -982,7 +989,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1671473924~acl=/hls-p/ingest_8237_*/*~hmac=93f4cbefde28b2f2eb036484f3150680677a6e50cadb32d68399f4cbefafa565/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671524241~acl=/hls-p/ingest_8237_*/*~hmac=4eaf9d420fe54342fa65c07678e409d62365df34054797e41d13ce17c33eedd3/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
