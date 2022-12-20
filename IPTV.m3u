@@ -130,6 +130,10 @@ https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",FS1
 #https://webdi.openhd.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Fox Sports 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -139,6 +143,12 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Fox Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TUDN
 #https://webdi.openhd.lol/lb/premium66/index.m3u8|referer=https://streamservicehd.click/
@@ -868,6 +878,12 @@ https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",E!
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Music TV
@@ -1199,6 +1215,15 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Duck TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Disney Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Disney Jr
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Disney XD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/51
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
