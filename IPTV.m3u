@@ -38,40 +38,40 @@ http://warkop.cf/80/bein/12.m3u8
 #https://webdi.openhd.lol/lb/premium46/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/13.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 France
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 French
 http://warkop.cf/80/bein/14.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 France
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 French
 http://warkop.cf/80/bein/15.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 France
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 French
 http://warkop.cf/80/bein/16.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1
 #https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2
 #https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/02.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3
 #https://webdi.openhd.lol/lb/premium93/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/03.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 4 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 4
 #https://webdi.openhd.lol/lb/premium94/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/04.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 5 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 5
 #https://webdi.openhd.lol/lb/premium95/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/05.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 6 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 6
 #https://webdi.openhd.lol/lb/premium96/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/06.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 7 Arab
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 7
 #https://webdi.openhd.lol/lb/premium97/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/07.m3u8
 
@@ -161,62 +161,62 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 3
 #https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 4
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 5
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 6
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_sport6_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sport 7
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 4
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier 5
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
@@ -272,10 +272,10 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 4
 #https://webdi.openhd.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Unify Sport 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Unify Sport 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -335,6 +335,9 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Motorvision
 http://210.210.155.37/uq2663/h/h09/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",NBA TV
+http://iptvid.my.id/hmm/nba.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",SPOTV
@@ -358,7 +361,7 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchan
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",MNC Sports
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",MNC Sports 1
 https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -374,10 +377,10 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",USee Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Usee Sports 1
 http://iptvid.my.id/hmm/useetl1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",USee Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Usee Sports 2
 http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
@@ -580,6 +583,9 @@ https://liveaneviadev.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBa
 #EXTINF:-1 tvg-logo="" group-title="Berita",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Berita",RRINET
+http://iptvid.my.id/hmm/rrinet.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Berita",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
@@ -614,7 +620,7 @@ https://liveaneviadev.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Berita",France24
+#EXTINF:-1 tvg-logo="" group-title="Berita",France 24
 https://liveaneviadev.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -812,6 +818,9 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",FLIK
+http://iptvid.my.id/hmm/flik.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",BOO
 http://23.237.10.66:16420
 
@@ -838,6 +847,12 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",The Indonesia Channel
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Bioskop Indonesia
+http://iptvid.my.id/hmm/biosid.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Seru Channel
+http://iptvid.my.id/hmm/seru.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -996,6 +1011,21 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Indi Kids
+http://iptvid.my.id/hmm/indikids.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Horee
+http://iptvid.my.id/hmm/horee.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Dreamworks
+http://iptvid.my.id/hmm/drmwrk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Davinci
+http://iptvid.my.id/hmm/davinci.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Anak",Dunia Anak
+http://iptvid.my.id/hmm/duniaanak.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
