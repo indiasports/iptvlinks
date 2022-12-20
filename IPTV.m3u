@@ -469,7 +469,8 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",ANTV
-http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+http://iptvid.my.id/hmm/antv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -478,6 +479,7 @@ https://liveaneviadev.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",TVOne
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
+http://iptvid.my.id/hmm/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -539,8 +541,11 @@ https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 tvg-logo="" group-title="Lokal",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lokal",Magna Channel
+#EXTINF:-1 tvg-logo="" group-title="Lokal",Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lokal",Antara TV
+http://iptvid.my.id/hmm/antara.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/index10.m3u8
@@ -803,6 +808,18 @@ https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&co
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Music TV
 https://liveaneviadev.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",MTV
+http://iptvid.my.id/hmm/mtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Prambors
+http://iptvid.my.id/hmm/prambors.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Ikonser
+http://iptvid.my.id/hmm/ikonser.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Musik Indo
+http://iptvid.my.id/hmm/musikindo.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Mola Hits
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
@@ -870,6 +887,9 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Lifetime
 https://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Paramount Network
+http://iptvid.my.id/hmm/paramount.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Dens Play
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 
@@ -933,6 +953,12 @@ http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Pengetahuan",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Tech & Storm
+http://iptvid.my.id/hmm/t_storm.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Lingua Channel
+http://iptvid.my.id/hmm/lingua.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
