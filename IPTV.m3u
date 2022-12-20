@@ -1094,7 +1094,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1671524241~acl=/hls-p/ingest_8237_*/*~hmac=4eaf9d420fe54342fa65c07678e409d62365df34054797e41d13ce17c33eedd3/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671547735~acl=/hls-p/ingest_8237_*/*~hmac=3d8a3d68093b329200b1998ddcbe702d22efddb3099066e3850f64ae3404e34b/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
