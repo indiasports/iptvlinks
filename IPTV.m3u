@@ -293,6 +293,9 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",AXS TV
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -705,7 +708,10 @@ https://liveaneviadev.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEnterta
 https://liveaneviadev.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Digione
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -734,10 +740,10 @@ https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movie
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",CCM
 https://liveaneviadev.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Celestial Classic Movie
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",CCM
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
@@ -768,7 +774,7 @@ https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Hits Movies
-https://liveaneviadev.mncnow.id/live/eds/Hits/sa_dash_vmx/HitsMovies.mpd
+https://liveaneviadev.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -802,6 +808,9 @@ https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",FMN
 https://liveaneviadev.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -883,7 +892,7 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Bioskop Indonesia
 http://iptvid.my.id/hmm/biosid.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Seru Channel
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Seru
 http://iptvid.my.id/hmm/seru.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -959,7 +968,7 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #EXTINF:-1 tvg-logo="" group-title="Rekreasi",Fashion TV
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Outside TV
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Outside
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Rekreasi",People Are Awesome
@@ -1055,7 +1064,7 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anak",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1 tvg-logo="" group-title="Anak",Indi Kids
+#EXTINF:-1 tvg-logo="" group-title="Anak",IndiKids
 http://iptvid.my.id/hmm/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Horee
@@ -1064,7 +1073,7 @@ http://iptvid.my.id/hmm/horee.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anak",Dreamworks
 http://iptvid.my.id/hmm/drmwrk.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Anak",Davinci
+#EXTINF:-1 tvg-logo="" group-title="Anak",Da Vinci
 http://iptvid.my.id/hmm/davinci.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Dunia Anak
@@ -1077,7 +1086,7 @@ https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Anak",Miaomi
+#EXTINF:-1 tvg-logo="" group-title="Anak",Miao Mi
 https://liveaneviadev.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1146,7 +1155,7 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Religi",Al-Iman TV
+#EXTINF:-1 tvg-logo="" group-title="Religi",Aliman TV
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1161,7 +1170,7 @@ https://liveaneviadev.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Religi",Al-Quran Al-Kareem
+#EXTINF:-1 tvg-logo="" group-title="Religi",Alquran Alkareem
 #https://liveaneviadev.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 https://edge.taghtia.com/sa/7.m3u8
 
@@ -1175,7 +1184,7 @@ https://liveaneviadev.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 tvg-logo="" group-title="Religi",TV Muhammadiyah
 https://liveaneviadev.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Religi",Badar TV
+#EXTINF:-1 tvg-logo="" group-title="Religi",BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Inspira TV
@@ -1201,6 +1210,7 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Media Sunnah Aceh
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
+https://h1.intechmedia.net/intech/ch23.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Religi",RTB Aneka
+#EXTINF:-1 tvg-logo="" group-title="Religi",RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
