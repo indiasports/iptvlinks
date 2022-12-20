@@ -332,11 +332,19 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ero
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Horizon Sports
 http://210.210.155.37/uq2663/h/h282/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motorracing
-http://210.210.155.37/uq2663/h/h223/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Moto Racing
+#http://210.210.155.37/uq2663/h/h223/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motorvision TV
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motorvision
 http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motor1 TV
+https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Edge Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",MavTV Select
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
