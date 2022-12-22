@@ -347,11 +347,11 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ero
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Horizon Sports
 http://210.210.155.37/uq2663/h/h282/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Moto Racing
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motor Racing
 #http://210.210.155.37/uq2663/h/h223/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motorvision
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Motorvision TV
 http://210.210.155.37/uq2663/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Motor1 TV
@@ -898,7 +898,7 @@ http://iptvid.my.id/hmm/musikindo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Mola Hits
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Molahits
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",SBS TV
@@ -965,7 +965,7 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Lifetime
 https://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Paramount
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Paramount Network
 http://iptvid.my.id/hmm/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Dens Play
@@ -1022,10 +1022,10 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #EXTINF:-1 tvg-logo="" group-title="Rekreasi",Fashion TV
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Outside
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Outside TV
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Fishing
+#EXTINF:-1 tvg-logo="" group-title="Rekreasi",Fishing TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="" group-title="Rekreasi",Insight
@@ -1047,7 +1047,7 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pengetahuan",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Tech & Storm
+#EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Tech Storm
 http://iptvid.my.id/hmm/t_storm.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Lingua Channel
@@ -1114,7 +1114,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1671687597~acl=/hls-p/ingest_8237_*/*~hmac=821732a9b9dadff491ccc73a9203ee2d2af9bd37da484df0e3d853bf57229a48/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671734571~acl=/hls-p/ingest_8237_*/*~hmac=8c23eaa653bfb0981c76ed2c712bf1a43d42550df5e3aebb16013d6117fe1687/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -1201,7 +1201,7 @@ https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anak",Cocoro
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Anak",Lego Toons
+#EXTINF:-1 tvg-logo="" group-title="Anak",Lego
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Zoomoo
@@ -1251,7 +1251,7 @@ https://liveaneviadev.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 tvg-logo="" group-title="Religi",TV Muhammadiyah
 https://liveaneviadev.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Religi",BRTV
+#EXTINF:-1 tvg-logo="" group-title="Religi",Badar TV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Inspira TV
@@ -1279,5 +1279,5 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
 https://h1.intechmedia.net/intech/ch23.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Religi",RTB Go
+#EXTINF:-1 tvg-logo="" group-title="Religi",RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
