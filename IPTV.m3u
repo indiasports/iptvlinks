@@ -392,7 +392,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Soccer Channel
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Soccer Channel (AFF CUP 2022)
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -582,7 +582,7 @@ https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 tvg-logo="" group-title="Lokal",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lokal",Magna TV
+#EXTINF:-1 tvg-logo="" group-title="Lokal",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Antara TV
@@ -1114,7 +1114,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1671858405~acl=/hls-p/ingest_8237_*/*~hmac=971df385da2c31c0f946a5cefac889938e709367d77029076fe93a6d0360ce30/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1671877017~acl=/hls-p/ingest_8237_*/*~hmac=5077a510d4d1b2ef89b341cd3ada2ec6329aed22c6fe2b0ec4434db57ccb82b9/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
