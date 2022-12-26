@@ -1156,7 +1156,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1672068766~acl=/hls-p/ingest_8237_*/*~hmac=887e02dd2f537c5810602b0837ddb41513f7c8ebd31df9039536231987e52eb4/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672085067~acl=/hls-p/ingest_8237_*/*~hmac=aea2fe3d77604dd18c7423c7200546c78e2fdddd24890aa4d6997f105beac7e1/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -1271,7 +1271,7 @@ https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Ajwa TV
-https://live-production.secureswiftcontent.com/exp=1672068819~acl=/hls-p/ingest_7464_*/*~hmac=14da53c8a952bf829a6c59b910b0d07b2e47bedc6aba27f07e429f5e8305a401/hls-p/ingest_7464_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672085033~acl=/hls-p/ingest_7464_*/*~hmac=986a4c928524cd05de6c1d1a994e66e7b01139f7165ef845030315dc82629f43/hls-p/ingest_7464_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1283,9 +1283,12 @@ https://liveaneviadev.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #EXTINF:-1 tvg-logo="" group-title="Religi",Muslim TV
 https://liveaneviadev.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Religi",Madinah
+https://edge.taghtia.com/sa/6.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Religi",Alquran Alkareem
+#EXTINF:-1 tvg-logo="" group-title="Religi",Mekkah
 #https://liveaneviadev.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 https://edge.taghtia.com/sa/7.m3u8
 
