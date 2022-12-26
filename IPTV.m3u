@@ -434,6 +434,9 @@ http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Tech Storm
 http://iptvid.my.id/hmm/t_storm.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Dens Play
+http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
@@ -922,12 +925,6 @@ http://iptvid.my.id/hmm/flik.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",BOO
 http://23.237.10.66:16420
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",RTB
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",RTB Aneka
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
@@ -968,9 +965,6 @@ https://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Paramount Network
 http://iptvid.my.id/hmm/paramount.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Dens Play
-http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Movie Sphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -1148,7 +1142,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1672085067~acl=/hls-p/ingest_8237_*/*~hmac=aea2fe3d77604dd18c7423c7200546c78e2fdddd24890aa4d6997f105beac7e1/hls-p/ingest_8237_720p/index.m3u8
+https://app-etslive-2.vidio.com/live/8237/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkxma1hJQzBFeHBKaXdBSWNzK1JObmZoR3p1N1Nrb1pFZS82QnIyVVlTQ2w0SzlWWWtDMkJNUktzdVNzRGJ2YlVyMS9LWXRJQkhiNU9LVFM1bjNFK2U4WFJySzJrSmRZQVBkVUtkNDlJbWZ3WXZXYXdPQ3czb3BCNTh2Q204eGd0MlVHa0ZvK1NIb3J4eWcwd3pVamc0cW5BOGxraVBuTmJSS1lOaWJNb2dBak1lcFZJa3YzR3dMeEFTU25JcC9UeWpvbFp6elNrSUIxQmVyK05yUkhEbjVucU00ZFF2UlV4dDBuZGNqL1hTTWlyRkhwYm5FeWpGcG1wT0wwU3BVSlVTZmxQRlNCOER6V1dRdmRNcWpGekEyWXVXRVhpWGdoT0hETUU4cUVzOE82MG8vT1RYbzh2NUZFMFJ1bnhlZ0VxVEl0ZUkvQU43QXZPYmM4WVJENFBIUG1QdmFNRWVBREpHV0pZTTQ3UjNwYWQrNnJXeGRZdm5lby9HSDRKUG9veXMwUjZqTDd0OWU5U0l6YXVscXZobW9qUnFUamZyR1Zqb2hTNVMrU2JIaEFCZUh3WmJyMUYvZE5tNStUeUtRcjZZVFNMbzBOZ0lTTis4QTJBZnZRRTdqRytOcjVoRk8vSDVQQ2I4OXRUSWVsUHVqUnRnbUt6ZVB1WmU4b2xCTW8yZU9jZW90eGJyODZ6L0kwWUxteW9peURWZitNUnByOFd1THVzRTgwY1BCVWtrazAwZmdjalZxdTRnYktFRmRIMloxQXFMU3JTcitHZnRhK3ZYUVBKVFI0cWRSRFRyRlR1Y1F0NnZ4Qzg0UFYrV3E0dHpVMGtTOEFidjlPQ084cUo1OEx6QlN1OEQzaTlldjZlbDQxZ3VvRlUyb3RyU013YmpFMVpLNURUUlNjUkZvRXQ4c3ZEQmNKYU9DbHBaQUFNNndlZDVELy9wNjhTb2FYdTNtc0xqdHVrUFlLZEZEelhJR1BYOWhwS21EY2dQL2JLRkhoM2pMM2NVbis0REFIdzFSZ2N4K2RwRTFiRndSRGU4aEZUQ2hWUmVCNXJTSmU4czRMcXBGTlo3Y0E9&trace_id=263e7113358dbc2d8c3868652fd4c9e8/17323528569149487342
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -1256,15 +1250,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="Anak",Disney XD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
+#EXTINF:-1 tvg-logo="" group-title="Religi",Ajwa TV
+https://app-etslive-2.vidio.com/live/7464/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdm5reWRRbFdUc1Q0cHpWang2UUhRTlI1U21yMFRKNnZ3MUZZb1BBcG1wYVFxWHdZWFFJZk9YbkNVeVJreHplYkRHeWg0SU1pNEI5WXJIL3Z1ZXQzWFVwQ0lmbDB4OGlLelJNSjhuSUdia1FXMlUxM3l6UXU1ZkY3N1JrRHRsTmJsam53QnBQZEpuTUZibDNsakRkek1XSkttOEpTMERVRUh5ekhNUHlPRmRwcnk1WVA5bkZKNnFPbzR5K3FwSGRFL1h0citvbGMwdXdaQUxyU0dsL1lHZ1lyREU0SHlwQTFkMjhwOElscTQ2NWNsMGJ0VERLRzBJK1puS1JEV3BZczk3UDNGTTBSZ210ZE5pd0MyeFBoMmdhdnd1OUxzZUFvZzByQU9ySXVYd1hYZjVKUUxUa05QS1VlZlpDYzhaRUpMdmtKRVo4MHhWYkdaQW9lNFprWG5kK1EvU2xneDBYeW05RGN4aklWTjlydkcxQ3kzNkF2Tk1EYzhQRUJFZlh2RVJreGREdWs3c3BQUmt2cmU2RDQ5cEZwdGJncmV4R2NORzlFTFc1T0pacVA3RlpDdjBrVkxqVEFmMnlKd2VrTUpacVM1c2lyYXZDZ0hRNzVLRm90bnVPSWFhT2pxQzFlK2ZRbEVqbDlVLy81YkZoMWFMVVhQT253YWJJRU13cC9kaUN2cE04TjZncHg1NjAvYkgvZkhMYVFxY1pTSDc4N2RPK2ErQUVUVWlCRFVWQVQ4V1B4ZE54N2lhV0RreU5PL3ZNTHA2Vm9aL1gya3Z2NVMvOTZEbW9LaUVGM05lWmlXMjBnVFptckx0dXZUYUVmcW1XZHFjcnkzN1hLSHd4blpJZDEwUUJ4clhFNkRlOU5EdkhuWTR3R2U5TXowY0JnVzFvWWJxanpHd0t5VnArVDRXV2hxNWZmSDl5dlIwR3FjdGc1bEltckFpbHJmTFdqZFk1UllOWERaYlhBUFJPRjhSUDN2TTFlVWtFMVNJTHk2ZHZEYVFQc0JKODRvUDFLcUsveTh6eXVnbVp6UHpyUFZFcEZFeDA5OGV0Z1ZFNjlBMitiRlc0dkVPaGc9&trace_id=9d2891708d202ebe53372e603b9b45aa/17395621904018466934
+
 #EXTINF:-1 tvg-logo="" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Al-Iman TV
 #https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 https://h1.intechmedia.net/intech/ch9.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Religi",Ajwa TV
-https://live-production.secureswiftcontent.com/exp=1672085033~acl=/hls-p/ingest_7464_*/*~hmac=986a4c928524cd05de6c1d1a994e66e7b01139f7165ef845030315dc82629f43/hls-p/ingest_7464_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1322,6 +1316,12 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religi",Media Sunnah Aceh
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
 https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",RTB
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
