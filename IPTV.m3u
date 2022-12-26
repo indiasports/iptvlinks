@@ -434,7 +434,7 @@ http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Tech Storm
 http://iptvid.my.id/hmm/t_storm.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",Dens Play
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Dens Play
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
@@ -1317,10 +1317,10 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
 https://h1.intechmedia.net/intech/ch23.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",RTB
+#EXTINF:-1 tvg-logo="" group-title="Religi",RTB
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",RTB Aneka
+#EXTINF:-1 tvg-logo="" group-title="Religi",RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
