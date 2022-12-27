@@ -1142,7 +1142,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1672103187~acl=/hls-p/ingest_8237_*/*~hmac=6a304e22ea932fd41e3491ee0a001ffb69f782ebf4bbb792cdba4743e5d26872/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672141784~acl=/hls-p/ingest_8237_*/*~hmac=ae5af41792fcd53e03759de96f0ea731376cbb783f6723432e35d6f849f44155/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -1251,7 +1251,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Ajwa TV
-https://live-production.secureswiftcontent.com/exp=1672103112~acl=/hls-p/ingest_7464_*/*~hmac=9988641089ae020be107d86ac3579d024ac607ef8b04e41a5fd3dab423282f6b/hls-p/ingest_7464_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672141741~acl=/hls-p/ingest_7464_*/*~hmac=c1c401b4c00f08133d03e760dae5636c4312a595f843e6286d69f45e1877c09c/hls-p/ingest_7464_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
