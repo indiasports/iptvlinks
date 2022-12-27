@@ -1,43 +1,55 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddyhd.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://m3u-editor.com/serve/48893300-8340-11ed-be24-b55f622de8cc/724607479
+https://webdi.openhd.lol/ddy1/premium123/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddyhd.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://m3u-editor.com/serve/48893300-8340-11ed-be24-b55f622de8cc/724607476
+https://webdi.openhd.lol/ddy1/premium124/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddyhd.php?id=125
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://m3u-editor.com/serve/48893300-8340-11ed-be24-b55f622de8cc/724607477
+https://webdi.openhd.lol/ddy1/premium125/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 4
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddyhd.php?id=126
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://m3u-editor.com/serve/48893300-8340-11ed-be24-b55f622de8cc/724607478
+https://webdi.openhd.lol/ddy1/premium126/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 5
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webdi.openhd.lol/lb/premium43/index.m3u8
+https://webdi.openhd.lol/ddy1/premium43/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Cricket
+https://webdi.openhd.lol/ddy1/premium370/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 1
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 2
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 3
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 4
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 5
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 1 Premium
+https://webdi.openhd.lol/ddy1/premium134/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 2 Premium
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 3 Premium
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 1
+https://webdi.openhd.lol/ddy1/premium365/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 2
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 3
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 4
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 5
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 1
+https://webdi.openhd.lol/ddy1/premium78/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 2
+https://webdi.openhd.lol/ddy1/premium79/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 3
+https://webdi.openhd.lol/ddy1/premium80/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 3
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 1
 https://webdi.openhd.lol/ddy1/premium31/index.m3u8|referer=https://streamservicehd.click/
@@ -50,17 +62,6 @@ https://webdi.openhd.lol/ddy1/premium33/index.m3u8|referer=https://streamservice
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 4
 https://webdi.openhd.lol/ddy1/premium34/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 1
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 2
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 3
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 1
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 2
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 3
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Racing
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Docu
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Select
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Voetbal
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -267,6 +268,18 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Racing
+https://webdi.openhd.lol/ddy1/premium396/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Docu
+https://webdi.openhd.lol/ddy1/premium383/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Select
+https://webdi.openhd.lol/ddy1/premium393/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Voetbal
+https://webdi.openhd.lol/ddy1/premium398/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
