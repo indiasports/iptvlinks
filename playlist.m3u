@@ -176,6 +176,12 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Fox Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Eurosport 1
+https://webdi.openhd.lol/ddy1/premium524/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Eurosport 2
+https://webdi.openhd.lol/ddy1/premium525/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN US
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
