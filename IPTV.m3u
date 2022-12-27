@@ -348,7 +348,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://iptvid.my.id/hmm/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
-https://etslive-2-vidio-com.akamaized.net/exp=1672151571~acl=/hls-p/ingest_206_*/*~hmac=bd07360e4b04c5fcda55af35a59b8eb7b804913c9e06f86c5ed16a3231bb64b5/hls-p/ingest_206_720p/index.m3u8
+https://raw.githubusercontent.com/biawak1234/iptv/main/1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -1041,7 +1041,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1672151619~acl=/hls-p/ingest_8237_*/*~hmac=dff82d85b5a6a2bbf41541551d1e2267598e31a5e1242a385cb82be02a6bd33a/hls-p/ingest_8237_720p/index.m3u8
+https://raw.githubusercontent.com/biawak1234/iptv/main/2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -1150,7 +1150,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Ajwa TV
-https://live-production.secureswiftcontent.com/exp=1672151674~acl=/hls-p/ingest_7464_*/*~hmac=111309356e4e06d62384497a5417c443c4d4c36e79760b9858f8cec6e89dd86d/hls-p/ingest_7464_720p/index.m3u8
+https://raw.githubusercontent.com/biawak1234/iptv/main/3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
