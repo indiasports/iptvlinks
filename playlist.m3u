@@ -40,16 +40,16 @@ https://webdi.openhd.lol/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 5
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 1
-https://webdi.openhd.lol/ddy1/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium31/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 2
-https://webdi.openhd.lol/ddy1/premium32/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium32/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 3
-https://webdi.openhd.lol/ddy1/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium33/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 4
-https://webdi.openhd.lol/ddy1/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium34/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 1
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 2
@@ -111,23 +111,44 @@ http://warkop.cf/80/bein/17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports Xtra 2
 http://warkop.cf/80/bein/18.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports N
+https://webdi.openhd.lol/ddy1/premium81/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 English
-http://warkop.cf/80/bein/11.m3u8
+#http://warkop.cf/80/bein/11.m3u8
+https://webdi.openhd.lol/ddy1/premium61/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 English
-http://warkop.cf/80/bein/12.m3u8
+#http://warkop.cf/80/bein/12.m3u8
+https://webdi.openhd.lol/ddy1/premium90/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 English
-http://warkop.cf/80/bein/13.m3u8
+#http://warkop.cf/80/bein/13.m3u8
+https://webdi.openhd.lol/ddy1/premium46/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 French
-http://warkop.cf/80/bein/14.m3u8
+#http://warkop.cf/80/bein/14.m3u8
+https://webdi.openhd.lol/ddy116/premium1/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 French
-http://warkop.cf/80/bein/15.m3u8
+#http://warkop.cf/80/bein/15.m3u8
+https://webdi.openhd.lol/ddy117/premium1/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 French
-http://warkop.cf/80/bein/16.m3u8
+#http://warkop.cf/80/bein/16.m3u8
+https://webdi.openhd.lol/ddy118/premium1/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 Turki
+https://webdi.openhd.lol/ddy1/premium62/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 Turki
+https://webdi.openhd.lol/ddy1/premium63/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3 Turki
+https://webdi.openhd.lol/ddy1/premium64/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 4 Turki
+https://webdi.openhd.lol/ddy1/premium67/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -154,11 +175,26 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Fox Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN US
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN 2 US
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN
+https://webdi.openhd.lol/ddy1/premium81/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN 2
+https://webdi.openhd.lol/ddy1/premium82/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN 3
+https://webdi.openhd.lol/ddy1/premium83/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN Deportes
+https://webdi.openhd.lol/ddy1/premium375/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",ESPN Premium
+https://webdi.openhd.lol/ddy1/premium387/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TUDN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
