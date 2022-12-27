@@ -4,6 +4,33 @@
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 4
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Supersport 5
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Astro Cricket
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 4
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 5
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 1 Premium
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 2 Premium
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 3 Premium
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 4
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 5
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 4
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 1
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 2
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 3
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Racing
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Docu
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Select
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Voetbal
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -19,7 +46,6 @@
 http://warkop.cf/80/bein/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2
-#https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 3
@@ -38,7 +64,6 @@ http://warkop.cf/80/bein/06.m3u8
 http://warkop.cf/80/bein/07.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 Premium
-#https://webdi.openhd.lol/lb/premium98/index.m3u8|referer=https://streamservicehd.click/
 http://warkop.cf/80/bein/08.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 Premium
@@ -109,7 +134,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TyC Sports
-#http://186.148.184.163:8000/play/a04n
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",MUTV
@@ -117,24 +141,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Real Madrid TV
 https://rmtv-canela.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 1
-#https://webdi.openhd.lol/lb/premium78/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 2
-#https://webdi.openhd.lol/lb/premium79/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 3
-#https://webdi.openhd.lol/lb/premium80/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 1
-#https://webdi.openhd.lol/lb/premium49/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 2
-#https://webdi.openhd.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 3
-#https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -196,57 +202,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 1
-#https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 2
-#https://webdi.openhd.lol/lb/premium433/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 3
-#https://webdi.openhd.lol/lb/premium434/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 4
-#https://webdi.openhd.lol/lb/premium581/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 5
-#https://webdi.openhd.lol/lb/premium151/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 1 Premium
-#https://webudi.openhd.lol/lb/premium134/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 2 Premium
-#https://webudi.openhd.lol/lb/premium135/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 3 Premium
-#https://webudi.openhd.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 1
-#https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 2
-#https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 3
-#https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 4
-#https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 5
-#https://webudi.openhd.lol/lb/premium115/index.m3u8||referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 1
-#https://webdi.openhd.lol/lb/premium31/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 2
-#https://webdi.openhd.lol/lb/premium32/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 3
-#https://webdi.openhd.lol/lb/premium33/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 4
-#https://webdi.openhd.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
-
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -256,12 +211,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Fight Sports
-https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Fight Sports
+#https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Fite Sports
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",Fite
 #https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
@@ -276,18 +229,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Racing
-#https://webdi.openhd.lol/lb/premium396/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Docu
-#https://webdi.openhd.lol/lb/premium383/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Select
-#https://webdi.openhd.lol/lb/premium393/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Ziggo Sport Voetbal
-#https://webdi.openhd.lol/lb/premium398/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Match!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -405,6 +346,9 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Indosiar
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 http://iptvid.my.id/hmm/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
+https://etslive-2-vidio-com.akamaized.net/exp=1672151571~acl=/hls-p/ingest_206_*/*~hmac=bd07360e4b04c5fcda55af35a59b8eb7b804913c9e06f86c5ed16a3231bb64b5/hls-p/ingest_206_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -1097,7 +1041,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",Mentari TV
-https://live-production.secureswiftcontent.com/exp=1672141784~acl=/hls-p/ingest_8237_*/*~hmac=ae5af41792fcd53e03759de96f0ea731376cbb783f6723432e35d6f849f44155/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672151619~acl=/hls-p/ingest_8237_*/*~hmac=dff82d85b5a6a2bbf41541551d1e2267598e31a5e1242a385cb82be02a6bd33a/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -1206,7 +1150,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Ajwa TV
-https://live-production.secureswiftcontent.com/exp=1672141741~acl=/hls-p/ingest_7464_*/*~hmac=c1c401b4c00f08133d03e760dae5636c4312a595f843e6286d69f45e1877c09c/hls-p/ingest_7464_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672151674~acl=/hls-p/ingest_7464_*/*~hmac=111309356e4e06d62384497a5417c443c4d4c36e79760b9858f8cec6e89dd86d/hls-p/ingest_7464_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
