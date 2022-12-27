@@ -283,7 +283,7 @@ http://iptvid.my.id/hmm/nba.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Tennis
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
@@ -855,6 +855,9 @@ http://iptvid.my.id/hmm/biosid.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Seru
 http://iptvid.my.id/hmm/seru.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",RANS Channel
+https://raw.githubusercontent.com/biawak1234/iptv/main/4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
