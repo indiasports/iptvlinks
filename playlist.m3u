@@ -19,27 +19,43 @@ https://webdi.openhd.lol/ddy1/premium43/index.m3u8|referer=https://streamservice
 https://webdi.openhd.lol/ddy1/premium370/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 1
+https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 2
+https://webdi.openhd.lol/lb/premium430/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 3
+https://webdi.openhd.lol/lb/premium431/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 4
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena Sport 5
+https://webdi.openhd.lol/lb/premium580/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 1 Premium
 https://webdi.openhd.lol/ddy1/premium134/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 2 Premium
+https://webdi.openhd.lol/lb/premium135/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Arena 3 Premium
+https://webdi.openhd.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 1
 https://webdi.openhd.lol/ddy1/premium365/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 2
+https://webdi.openhd.lol/lb/premium112/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 3
+https://webdi.openhd.lol/lb/premium113/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 4
+https://webdi.openhd.lol/lb/premium114/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",TSN 5
+https://webdi.openhd.lol/lb/premium115/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 1
-https://webdi.openhd.lol/ddy1/premium78/index.m3u8|referer=https://streamservicehd.click/
+https://webdi.openhd.lol/lb/premium78/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sportv 2
 https://webdi.openhd.lol/ddy1/premium79/index.m3u8|referer=https://streamservicehd.click/
@@ -48,8 +64,13 @@ https://webdi.openhd.lol/ddy1/premium79/index.m3u8|referer=https://streamservice
 https://webdi.openhd.lol/ddy1/premium80/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 1
+https://webdi.openhd.lol/lb/premium49/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 2
+https://webdi.openhd.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Sport TV 3
+https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",BT Sport 1
 https://webdi.openhd.lol/ddy1/premium31/index.m3u8|referer=https://streamservicehd.click/
@@ -313,6 +334,9 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",DAZN F1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",DAZN La Liga
+https://webdi.openhd.lol/lb/premium538/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
