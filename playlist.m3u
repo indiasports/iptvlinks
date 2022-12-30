@@ -113,7 +113,8 @@ http://warkop.cf/80/bein/17.m3u8
 http://warkop.cf/80/bein/18.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports N
-https://webdi.openhd.lol/ddy1/premium81/index.m3u8|referer=https://streamservicehd.click/
+#https://webdi.openhd.lol/ddy1/premium81/index.m3u8|referer=https://streamservicehd.click/
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 English
 #http://warkop.cf/80/bein/11.m3u8
@@ -309,6 +310,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Olahraga",DAZN F1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
@@ -677,6 +681,9 @@ https://liveaneviadev.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #EXTINF:-1 tvg-logo="" group-title="Berita",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Berita",Fox News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="Berita",ABC Australia
@@ -737,7 +744,7 @@ https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/I
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",ENT
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Entertainment
 https://liveaneviadev.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -756,7 +763,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",IE
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",Infotainment
 https://liveaneviadev.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -935,7 +942,7 @@ http://iptvid.my.id/hmm/biosid.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hiburan",Seru
 http://iptvid.my.id/hmm/seru.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan",RANS Channel
+#EXTINF:-1 tvg-logo="" group-title="Hiburan",RANS Entertainment
 https://raw.githubusercontent.com/biawak1234/iptv/main/4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1084,7 +1091,7 @@ https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Discovery
+#EXTINF:-1 tvg-logo="" group-title="Pengetahuan",Discovery Channel
 https://liveaneviadev.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1308,7 +1315,7 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
 https://h1.intechmedia.net/intech/ch23.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Religi",RTB
+#EXTINF:-1 tvg-logo="" group-title="Religi",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi",RTB Aneka
