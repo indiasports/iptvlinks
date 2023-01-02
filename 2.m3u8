@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://live-production.secureswiftcontent.com/exp=1672665310~acl=/hls-p/ingest_8237_*/*~hmac=f0f3131bec4cbfdf38c05d3c23f1f744e85d6be3f07b8ccd8aaf0f9d80c8dd43/hls-p/ingest_8237_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672684321~acl=/hls-p/ingest_8237_*/*~hmac=28a61130128df06b2591f66dfb4e7a39b7586bc4079bca81577aabd79273e28f/hls-p/ingest_8237_720p/index.m3u8
