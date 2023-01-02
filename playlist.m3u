@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8facazkanjey6c0/live.png?dl=1" group-title="Olahraga",LIVE AFF
+http://serverkawaguchi4.themaraudersmap.xyz/3888.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8facazkanjey6c0/live.png?dl=1" group-title="Olahraga",LIVE 1
-http://serverkawaguchi6.themaraudersmap.xyz/0928.m3u8
+http://serverkawaguchi1.themaraudersmap.xyz/3153.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8facazkanjey6c0/live.png?dl=1" group-title="Olahraga",LIVE 2
 http://serverkawaguchi7.themaraudersmap.xyz/3827.m3u8
