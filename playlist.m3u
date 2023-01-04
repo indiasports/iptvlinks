@@ -551,8 +551,9 @@ http://210.210.155.37/dr9445/h/h10/index1.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8n9oj3d529o9w1g/antv.png?dl=1" group-title="Lokal",ANTV
-http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672742010/0/ANTV_AT/ANTV_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -589,7 +590,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://av-live-cdn-01.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uyz3hqsivoxjfvj/balitv.png?dl=1" group-title="Lokal",Bali TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672742389/0/BALITV_AT/BALITV_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -909,10 +911,12 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/umi818y69btr6uq/rockaction.png?dl=1" group-title="Hiburan",Rock Action
-http://210.210.155.37/dr9445/h/h15/index.m3u8
+#http://210.210.155.37/dr9445/h/h15/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672741410/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0ehvpuw8ln8owf2/rockentertainment.png?dl=1" group-title="Hiburan",Rock Entertainment
-http://210.210.155.37/dr9445/h/h16/index.m3u8
+#http://210.210.155.37/dr9445/h/h16/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672741373/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yxgzbtsddfwh8rx/flik.png?dl=1" group-title="Hiburan",FLIK
 http://iptvid.my.id/hmm/flik.m3u8
@@ -1026,7 +1030,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://iptvid.my.id/hmm/prambors.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/k03dtjsjy729d04/ikonser.png?dl=1" group-title="Hiburan",Ikonser
-http://iptvid.my.id/hmm/ikonser.m3u8
+#http://iptvid.my.id/hmm/ikonser.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672740559/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/chh4oyo57v789vy/musikindo.png?dl=1" group-title="Hiburan",Musik Indonesia
 http://iptvid.my.id/hmm/musikindo.m3u8
@@ -1192,7 +1197,8 @@ http://iptvid.my.id/hmm/horee.m3u8
 http://iptvid.my.id/hmm/drmwrk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xv9b9euuyorwc2p/davinci.png?dl=1" group-title="Anak",Da Vinci
-http://iptvid.my.id/hmm/davinci.m3u8
+#http://iptvid.my.id/hmm/davinci.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672740826/0/DAVINCI_AT/DAVINCI_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vrf4ov330vrnisi/duniaanak.png?dl=1" group-title="Anak",Dunia Anak
 http://iptvid.my.id/hmm/duniaanak.m3u8
