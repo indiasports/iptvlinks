@@ -463,8 +463,7 @@ http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/acfrk26rhbaqpqd/sctv.png?dl=1" group-title="Lokal",SCTV
-#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #http://iptvid.my.id/hmm/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eqbvbf28z4cj4zw/indosiar.png?dl=1" group-title="Lokal",Indosiar
@@ -475,7 +474,7 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #http://iptvid.my.id/hmm/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
-https://raw.githubusercontent.com/biawak1234/iptv/main/1.m3u8
+https://geocities.ws/ariev7xx/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -545,8 +544,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sl
 https://anv-livechannel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gw7a9w0miy795vy/rtv.png?dl=1" group-title="Lokal",RTV
-http://210.210.155.37/dr9445/h/h10/index1.m3u8
+#http://210.210.155.37/dr9445/h/h10/index1.m3u8
 #http://iptvid.my.id/hmm/rtv.m3u8
+https://geocities.ws/ariev7xx/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -556,7 +556,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8n9oj3d529o9w1g/antv.png?dl=1" group-title="Lokal",ANTV
 #http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
-https://cdn09jtedge.indihometv.com/atemedvr/1672742010/0/ANTV_AT/ANTV_AT.mpd
+#https://cdn09jtedge.indihometv.com/atemedvr/1672742010/0/ANTV_AT/ANTV_AT.mpd
+https://geocities.ws/ariev7xx/antv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -565,8 +566,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v0c8ypclystuwkg/tvone.png?dl=1" group-title="Lokal",TVOne
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
-http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s105/index.m3u8
 #http://iptvid.my.id/hmm/tvone.m3u8
+https://geocities.ws/ariev7xx/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1182,7 +1184,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l1o4b4ghv8mfhxw/mentaritv.png?dl=1" group-title="Anak",Mentari TV
-https://raw.githubusercontent.com/biawak1234/iptv/main/2.m3u8
+https://geocities.ws/ariev7xx/mentari.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vrzlb4pchkk30az/mkidz.png?dl=1" group-title="Anak",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
