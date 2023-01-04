@@ -99,31 +99,40 @@ https://webdi.openhd.lol/ddy1/premium34/index.m3u8|referer=https://streamservice
 https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2
-http://warkop.cf/80/bein/02.m3u8
+#http://warkop.cf/80/bein/02.m3u8
+https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3
-http://warkop.cf/80/bein/03.m3u8
+#http://warkop.cf/80/bein/03.m3u8
+https://webdi.openhd.lol/lb/premium93/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 4
-http://warkop.cf/80/bein/04.m3u8
+#http://warkop.cf/80/bein/04.m3u8
+https://webdi.openhd.lol/lb/premium94/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 5
-http://warkop.cf/80/bein/05.m3u8
+#http://warkop.cf/80/bein/05.m3u8
+https://webdi.openhd.lol/lb/premium95/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 6
-http://warkop.cf/80/bein/06.m3u8
+#http://warkop.cf/80/bein/06.m3u8
+https://webdi.openhd.lol/lb/premium96/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 7
-http://warkop.cf/80/bein/07.m3u8
+#http://warkop.cf/80/bein/07.m3u8
+https://webdi.openhd.lol/lb/premium97/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 Premium
-http://warkop.cf/80/bein/08.m3u8
+#http://warkop.cf/80/bein/08.m3u8
+https://webdi.openhd.lol/lb/premium98/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2 Premium
-http://warkop.cf/80/bein/09.m3u8
+#http://warkop.cf/80/bein/09.m3u8
+https://webdi.openhd.lol/lb/premium99/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3 Premium
-http://warkop.cf/80/bein/10.m3u8
+#http://warkop.cf/80/bein/10.m3u8
+https://webdi.openhd.lol/lb/premium100/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports Xtra
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -135,7 +144,6 @@ http://warkop.cf/80/bein/17.m3u8
 http://warkop.cf/80/bein/18.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports N
-#https://webdi.openhd.lol/ddy1/premium81/index.m3u8|referer=https://streamservicehd.click/
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 English
