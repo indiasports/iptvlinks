@@ -549,9 +549,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sl
 https://anv-livechannel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gw7a9w0miy795vy/rtv.png?dl=1" group-title="Lokal",RTV
-#http://210.210.155.37/dr9445/h/h10/index1.m3u8
+http://210.210.155.37/dr9445/h/h10/index1.m3u8
 #http://iptvid.my.id/hmm/rtv.m3u8
-https://geocities.ws/ariev7xx/rtv.m3u8
+#https://geocities.ws/ariev7xx/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
