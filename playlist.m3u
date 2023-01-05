@@ -234,6 +234,30 @@ https://webdi.openhd.lol/ddy1/premium375/index.m3u8|referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN Premium
 https://webdi.openhd.lol/ddy1/premium387/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",+Sport
+https://webdi.openhd.lol/lb/premium122/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",+Sport 360
+https://webdi.openhd.lol/lb/premium464/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",+Foot
+https://webdi.openhd.lol/lb/premium463/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",Canal+ Sport 1
+https://webdi.openhd.lol/lb/premium486/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",Canal+ Sport 2
+https://webdi.openhd.lol/lb/premium487/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",Canal+ Sport 3
+https://webdi.openhd.lol/lb/premium488/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",Canal+ Sport 4
+https://webdi.openhd.lol/lb/premium489/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",Canal+ Sport 5
+https://webdi.openhd.lol/lb/premium490/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wu7nzi0qp74u37v/tudn.png?dl=1" group-title="Olahraga",TUDN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
