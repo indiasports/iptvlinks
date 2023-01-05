@@ -644,7 +644,8 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ggn53c32adqoi6e/antaratv.png?dl=1" group-title="Lokal",Antara TV
-http://iptvid.my.id/hmm/antara.m3u8
+#http://iptvid.my.id/hmm/antara.m3u8
+https://dl.dropbox.com/s/k4jhfknr0s1hb0m/antaratv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uv6lxmw5ed4hgiz/elshintatv.png?dl=1" group-title="Lokal",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/index10.m3u8
@@ -686,7 +687,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemer
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yq8zq1gb4cpvgcd/rrinet.png?dl=1" group-title="Berita",RRI NET
-http://iptvid.my.id/hmm/rrinet.m3u8
+#http://iptvid.my.id/hmm/rrinet.m3u8
+https://dl.dropbox.com/s/b0rjn5ynu2ypv3p/rrinet.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/91t5ke1utdw0lqg/jakartaglobe.png?dl=1" group-title="Berita",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
@@ -1064,8 +1066,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 #http://iptvid.my.id/hmm/useephoto.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6a1f2zrsjxx311f/useeprime.png?dl=1" group-title="Rekreasi",Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #http://iptvid.my.id/hmm/useeprime.m3u8
+https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w117432352_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4mk33iyjolx7cac/bizadventure.png?dl=1" group-title="Rekreasi",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
@@ -1205,7 +1208,8 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9hiphi99cxskl5r/indikids.png?dl=1" group-title="Anak",IndiKids
-http://iptvid.my.id/hmm/indikids.m3u8
+#http://iptvid.my.id/hmm/indikids.m3u8
+https://dl.dropbox.com/s/aspq8s2vr9noqgp/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m16qghw6kto0pgv/horee.png?dl=1" group-title="Anak",Horee
 http://iptvid.my.id/hmm/horee.m3u8
