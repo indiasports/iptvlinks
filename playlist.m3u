@@ -973,7 +973,7 @@ http://iptvid.my.id/hmm/biosid.m3u8
 http://iptvid.my.id/hmm/seru.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1b304i996n82k8g/rans.png?dl=1" group-title="Hiburan",RANS Entertainment
-https://raw.githubusercontent.com/biawak1234/iptv/main/4.m3u8
+https://dl.dropbox.com/s/qvelkozlr6q6afp/rans.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1305,7 +1305,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lt2p9nl068qzvy2/ajwatv.png?dl=1" group-title="Religi",Ajwa TV
-https://raw.githubusercontent.com/biawak1234/iptv/main/3.m3u8
+https://dl.dropbox.com/s/ejw26xqutq5o9lb/ajwatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1sbyfrehiy3cvk4/rodjatv.png?dl=1" group-title="Religi",Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
