@@ -1020,6 +1020,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wppfj15s8nb8iy6/musictv.png?dl=1" group-title="Hiburan",Music TV
 https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2pdxxw7h724f5qu/musica.png?dl=1" group-title="Hiburan",Musica
+https://dl.dropbox.com/s/mb8357j4ybu2yny/musica.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pwtu8hvptb7ebwu/mtv.png?dl=1" group-title="Hiburan",MTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
 
