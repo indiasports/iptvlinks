@@ -72,16 +72,16 @@ https://webdi.openhd.lol/lb/premium74/index.m3u8|referer=https://streamservicehd
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hlxxmcm3dcxd2hy/sporttv.png?dl=1" group-title="Olahraga",Sport TV 3
 https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tmljgo66kf0qiqs/btsport.png?dl=1" group-title="Olahraga",BT Sport 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 1
 https://webdi.openhd.lol/ddy1/premium31/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tmljgo66kf0qiqs/btsport.png?dl=1" group-title="Olahraga",BT Sport 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 2
 https://webdi.openhd.lol/ddy1/premium32/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tmljgo66kf0qiqs/btsport.png?dl=1" group-title="Olahraga",BT Sport 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 3
 https://webdi.openhd.lol/ddy1/premium33/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tmljgo66kf0qiqs/btsport.png?dl=1" group-title="Olahraga",BT Sport 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 4
 https://webdi.openhd.lol/ddy1/premium34/index.m3u8|referer=https://streamservicehd.click/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -463,8 +463,8 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/oqx601ru3q4fwi8/egg.png?dl=1" group-title="Olahraga",Egg Network
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lop6wy2iztov2jr/techstorm.png?dl=1" group-title="Olahraga",Tech Storm
-http://iptvid.my.id/hmm/t_storm.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qjmexo3tydyj2sj/duniagames.png?dl=1" group-title="Olahraga",Dunia Games
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/as791qpnhw4gn6i/densplay.png?dl=1" group-title="Olahraga",Dens Play
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
@@ -1114,6 +1114,14 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/g5hysiza546nw0q/tvedukasi.png?dl=1" group-title="Pengetahuan",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rz7mlx4p2e9y1qn/besmart.png?dl=1" group-title="Pengetahuan",Be Smart
+https://anv-livechannel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lop6wy2iztov2jr/techstorm.png?dl=1" group-title="Pengetahuan",Tech Storm
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sefs5wiqna7d46x/lingua.png?dl=1" group-title="Pengetahuan",Lingua Channel
 http://iptvid.my.id/hmm/lingua.m3u8
 
@@ -1156,11 +1164,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Cr
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jrij9892nnbldbw/cgtn.png?dl=1" group-title="Pengetahuan",CGTN Documentary
 https://anv-livechannel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rz7mlx4p2e9y1qn/besmart.png?dl=1" group-title="Pengetahuan",Be Smart
-https://anv-livechannel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2lx4zr6tnfz9k27/smithsonian.png?dl=1" group-title="Pengetahuan",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
