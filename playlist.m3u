@@ -637,9 +637,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/svda56px53dzs70/jtv.png?dl=1" group-title="Lokal",JTV
 https://anv-livechannel-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/svda56px53dzs70/jtv.png?dl=1" group-title="Lokal",JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/siolbyggijbn3f9/magna.png?dl=1" group-title="Lokal",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
