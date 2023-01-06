@@ -484,8 +484,7 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #http://iptvid.my.id/hmm/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
-#https://geocities.ws/ariev7xx/moji.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1673016555~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=339ab4d437a3d99cd2ff05a9fa760bd8750d247ba5ab95f22503a582f9a17550/vp9/11524_stream.mpd
+https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -556,9 +555,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sl
 https://anv-livechannel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gw7a9w0miy795vy/rtv.png?dl=1" group-title="Lokal",RTV
-http://210.210.155.37/dr9445/h/h10/index1.m3u8
-#http://iptvid.my.id/hmm/rtv.m3u8
-#https://geocities.ws/ariev7xx/rtv.m3u8
+#http://210.210.155.37/dr9445/h/h10/index1.m3u8
+https://dl.dropbox.com/s/kenp5gib6g4d1eo/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -567,9 +565,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8n9oj3d529o9w1g/antv.png?dl=1" group-title="Lokal",ANTV
 #http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
-#http://iptvid.my.id/hmm/antv.m3u8
 #https://cdn09jtedge.indihometv.com/atemedvr/1672742010/0/ANTV_AT/ANTV_AT.mpd
-https://geocities.ws/ariev7xx/antv.m3u8
+https://dl.dropbox.com/s/0jh2qv96apttrcf/antv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -577,10 +574,8 @@ https://geocities.ws/ariev7xx/antv.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v0c8ypclystuwkg/tvone.png?dl=1" group-title="Lokal",TVOne
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-#http://iptvid.my.id/hmm/tvone.m3u8
-https://geocities.ws/ariev7xx/tvone.m3u8
+https://dl.dropbox.com/s/trjnrffqjvvsiid/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
