@@ -485,7 +485,8 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
-https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
+#https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1673084726~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=b998289cd2d00d70d244ea8eb395fbb4bdce16d05f330a4faef4a613cf44f465/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
