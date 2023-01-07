@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png?dl=1" group-title="Olahraga",MLBB
 https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/96ogqr42ssgabs6/proliga.png?dl=1" group-title="Olahraga",PROLIGA
+https://etslive-2-vidio-com.akamaized.net/exp=1673085044~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=3c06a543163eca387477d7140787c44009e0265894e27b242dcc4bde7510fc4b/vp9/11524_stream.mpd
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 1
 https://webdi.openhd.lol/ddy1/premium123/index.m3u8|referer=https://streamservicehd.click/
 
@@ -485,8 +488,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
-#https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1673084726~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=b998289cd2d00d70d244ea8eb395fbb4bdce16d05f330a4faef4a613cf44f465/vp9/11524_stream.mpd
+https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
