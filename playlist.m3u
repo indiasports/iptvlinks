@@ -916,6 +916,9 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qg4jvzdgooy7hq2/k%2B.png?dl=1" group-title="Hiburan",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m9kclzq7dvv1f6b/abscbn.png?dl=1" group-title="Hiburan",ABS CBN
+https://dl.dropbox.com/s/vwi93ecvd1d8nib/abscbn.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/umi818y69btr6uq/rockaction.png?dl=1" group-title="Hiburan",Rock Action
 #http://210.210.155.37/dr9445/h/h15/index.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1672741410/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
