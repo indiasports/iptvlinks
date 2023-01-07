@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png?dl=1" group-title="Olahraga",MLBB
+https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 1
 https://webdi.openhd.lol/ddy1/premium123/index.m3u8|referer=https://streamservicehd.click/
 
