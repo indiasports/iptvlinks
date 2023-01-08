@@ -8,8 +8,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/socc
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png?dl=1" group-title="Olahraga",MLBB M4
 https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/96ogqr42ssgabs6/proliga.png?dl=1" group-title="Olahraga",PROLIGA
-https://etslive-2-vidio-com.akamaized.net/exp=1673105682~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=f3bd87f728d01a52b08a81fd91621bc7c4123d17b7398018d3c0406c19f61cbe/vp9/11524_stream.mpd
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/96ogqr42ssgabs6/proliga.png?dl=1" group-title="Olahraga",PLN PROLIGA
+https://etslive-2-vidio-com.akamaized.net/exp=1673167653~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=e966763254ae9add87b63a8924bf36f97a3dc58c990623e8a79c8da47163b946/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 1
 https://webdi.openhd.lol/ddy1/premium123/index.m3u8|referer=https://streamservicehd.click/
