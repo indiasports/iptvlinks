@@ -492,8 +492,8 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ja4t9tvfvk4oupi/moji.png" group-title="Lokal",Moji
-https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
-#https://geocities.ws/ariev7xx/moji.m3u8
+#https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
+https://geocities.ws/ariev7xx/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ja4t9tvfvk4oupi/moji.png" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -1368,6 +1368,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xhv8ic798mokd1x/rtbaneka.png" group-title="Religi",RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/of0n4ndmfiy53rr/uchannel.png" group-title="Religi",U-Channel
+https://cdn09jtedge.indihometv.com/atemedvr/1672741945/0/UCHANNEL_AT/UCHANNEL_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
