@@ -2,14 +2,14 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rq9cfory7cb5vtc/affcup.png?dl=1" group-title="Olahraga",AFF CUP
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rq9cfory7cb5vtc/affcup.png?dl=1" group-title="Olahraga",AFF Cup
 https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png?dl=1" group-title="Olahraga",MLBB M4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png?dl=1" group-title="Olahraga",MLBB World Championship
 https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/96ogqr42ssgabs6/proliga.png?dl=1" group-title="Olahraga",PLN PROLIGA
-https://etslive-2-vidio-com.akamaized.net/exp=1673167653~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=e966763254ae9add87b63a8924bf36f97a3dc58c990623e8a79c8da47163b946/vp9/11524_stream.mpd
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/96ogqr42ssgabs6/proliga.png?dl=1" group-title="Olahraga",PLN Mobile Proliga
+https://dl.dropbox.com/s/5ajc4o2zjlgj2k4/proliga.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 1
 https://webdi.openhd.lol/ddy1/premium123/index.m3u8|referer=https://streamservicehd.click/
@@ -1050,7 +1050,8 @@ https://dl.dropbox.com/s/mb8357j4ybu2yny/musica.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/72n4z8c2rdierlm/prambors.png?dl=1" group-title="Hiburan",Prambors
-http://iptvid.my.id/hmm/prambors.m3u8
+#http://iptvid.my.id/hmm/prambors.m3u8
+https://streaming.indihometv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?enc=AXfRDc5ZuDppjA6THk1VJA&exp=1673158281&encp=7yt6P6mk_95jdFWiFf8bHw&expp=1673168781
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/k03dtjsjy729d04/ikonser.png?dl=1" group-title="Hiburan",Ikonser
 https://cdn09jtedge.indihometv.com/atemedvr/1672740559/0/IKONSER_AT/IKONSER_AT.mpd
