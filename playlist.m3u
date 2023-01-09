@@ -942,7 +942,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zq7cxioc6ozam6h/mcn.png" group-title="Hiburan",My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+#http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7u8527kz6az4miv/mca.png" group-title="Hiburan",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
@@ -981,7 +981,7 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://anv-livechannel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
-https://webdi.openhd.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",Movie Sphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -1069,6 +1069,9 @@ http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8fwuy4ua2inlare/densfood.png" group-title="Rekreasi",Dens Food Channel
 http://210.210.155.35/x6bnqe/s/s38/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/svqe6tg7fdet4l8/eat%26go.png" group-title="Rekreasi",Eat & Go
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=eatgo&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
