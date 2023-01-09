@@ -463,10 +463,11 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 1
-http://iptvid.my.id/hmm/useetl1.m3u8
+#http://iptvid.my.id/hmm/useetl1.m3u8
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 2
-http://iptvid.my.id/hmm/useetl2.m3u8
+#http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",Egg Network
 http://210.210.155.37/uq2663/h/h22/index.m3u8
@@ -931,7 +932,7 @@ https://cdn09jtedge.indihometv.com/atemedvr/1672741410/0/BLUEANTEXTREME_AT/BLUEA
 https://cdn09jtedge.indihometv.com/atemedvr/1672741373/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yxgzbtsddfwh8rx/flik.png" group-title="Hiburan",FLIK
-http://iptvid.my.id/hmm/flik.m3u8
+#http://iptvid.my.id/hmm/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/p0nol0p732qgarw/boo.png" group-title="Hiburan",BOO
 http://23.237.10.66:16420
@@ -961,10 +962,10 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
-http://iptvid.my.id/hmm/biosid.m3u8
+#http://iptvid.my.id/hmm/biosid.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru
-http://iptvid.my.id/hmm/seru.m3u8
+#http://iptvid.my.id/hmm/seru.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1b304i996n82k8g/rans.png" group-title="Hiburan",RANS Entertainment
 https://dl.dropbox.com/s/qvelkozlr6q6afp/rans.m3u8
@@ -1044,7 +1045,7 @@ https://dl.dropbox.com/s/0773jf74ltx0x56/prambors.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1672740559/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
-http://iptvid.my.id/hmm/musikindo.m3u8
+#http://iptvid.my.id/hmm/musikindo.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vl0ywb3wyem0gt9/maleo.png" group-title="Hiburan",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
@@ -1132,7 +1133,7 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sefs5wiqna7d46x/lingua.png" group-title="Pengetahuan",Lingua Channel
-http://iptvid.my.id/hmm/lingua.m3u8
+#http://iptvid.my.id/hmm/lingua.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1203,16 +1204,16 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 https://dl.dropbox.com/s/aspq8s2vr9noqgp/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m16qghw6kto0pgv/horee.png" group-title="Anak",Horee
-http://iptvid.my.id/hmm/horee.m3u8
+#http://iptvid.my.id/hmm/horee.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9rzjsn0q24b37y6/dreamworks.png" group-title="Anak",Dreamworks
-http://iptvid.my.id/hmm/drmwrk.m3u8
+#http://iptvid.my.id/hmm/drmwrk.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xv9b9euuyorwc2p/davinci.png" group-title="Anak",Da Vinci
 https://cdn09jtedge.indihometv.com/atemedvr/1672740826/0/DAVINCI_AT/DAVINCI_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vrf4ov330vrnisi/duniaanak.png" group-title="Anak",Dunia Anak
-http://iptvid.my.id/hmm/duniaanak.m3u8
+#http://iptvid.my.id/hmm/duniaanak.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
