@@ -980,6 +980,9 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #http://210.210.155.37/uq2663/h/h08/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=kbsworld&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m9kclzq7dvv1f6b/abscbn.png" group-title="Hiburan",ABS CBN
 https://dl.dropbox.com/s/vwi93ecvd1d8nib/abscbn.m3u8
 
@@ -1023,6 +1026,9 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=bioskopindonesia&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=dunialain&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru
 #http://iptvid.my.id/hmm/seru.m3u8
@@ -1237,6 +1243,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Cr
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jrij9892nnbldbw/cgtn.png" group-title="Pengetahuan",CGTN Documentary
 https://anv-livechannel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/83oz1k4zpvq9lnf/ipanda.png" group-title="Pengetahuan",iPanda
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=pandatv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2lx4zr6tnfz9k27/smithsonian.png" group-title="Pengetahuan",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
