@@ -570,7 +570,7 @@ http://45.126.83.51:80/qwr9ew/s/s08/01.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/62ryx1k6tdaeygm/rcti.png" group-title="Lokal",RCTI
-https://d27gr10k1gmcw.cloudfront.net/RCTI_2021.m3u8|referer=https://video.sindonews.com/
+https://h-rcti.rctiplus.id/RCTI2022.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -578,7 +578,7 @@ https://d27gr10k1gmcw.cloudfront.net/RCTI_2021.m3u8|referer=https://video.sindon
 https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/fcc2sbh556rtp08/gtv.png" group-title="Lokal",GTV
-https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://video.sindonews.com/
+https://d-gtv.rctiplus.id/GTV2021.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -586,7 +586,7 @@ https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://video.sindone
 https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/541aydqr502xl5z/mnctv.png" group-title="Lokal",MNCTV
-https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|referer=https://video.sindonews.com/
+https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -594,7 +594,7 @@ https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|referer=https://video.sind
 https://anv-livechannel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vxm41wbiyfmhbx1/inews.png" group-title="Lokal",INews
-https://d25tjwq1t7aw0m.cloudfront.net/INEWS_2021.m3u8|referer=https://video.sindonews.com/
+https://d-inews.rctiplus.id/INEWS2022.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
