@@ -962,7 +962,7 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eqyxytz33nyxdhz/nhkjapan.png" group-title="Hiburan",NHK World Japan
 #https://anv-livechannel-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+https://dl.dropbox.com/s/byt4m3zqloqwxyz/nhkworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/0b1ih1htnrk6yps/cinelife.png" group-title="Hiburan",Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
