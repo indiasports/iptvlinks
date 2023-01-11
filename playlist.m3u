@@ -1,15 +1,19 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rq9cfory7cb5vtc/affcup.png" group-title="Olahraga",AFF Cup
-https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 1
+https://dl.dropbox.com/s/rj6h9l6dr6v1kvi/live1.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cj3kuni4xb02zg5/briliga1.png" group-title="Olahraga",BRI Liga 1
-https://dl.dropbox.com/s/psv28b2csyofbj8/briliga1.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 2
+https://dl.dropbox.com/s/4j0ln9xjtun3igs/live2.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png" group-title="Olahraga",MLBB World Championship
-https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 3
+https://dl.dropbox.com/s/mn92oz9mcll7gku/live3.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 4
+https://dl.dropbox.com/s/2ul7k8mlv4u1qx4/live4.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 5
+https://dl.dropbox.com/s/cuenauw4zw9rd3u/live5.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
