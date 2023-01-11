@@ -42,7 +42,7 @@ https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/92.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f94rw3u957uzs35/astrocricket.png" group-title="Olahraga",Astro Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium370/index.m3u8|referer=https://streamservicehd.click/
+#https://webdi.openhd.lol/lb/premium370/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="Olahraga",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -143,38 +143,38 @@ https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/83.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/01.m3u8
+#https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/02.m3u8
+#https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium93/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/03.m3u8
+#https://webdi.openhd.lol/lb/premium93/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium94/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/04.m3u8
+#https://webdi.openhd.lol/lb/premium94/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium95/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/05.m3u8
+#https://webdi.openhd.lol/lb/premium95/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium96/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/06.m3u8
+#https://webdi.openhd.lol/lb/premium96/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium97/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/07.m3u8
+#https://webdi.openhd.lol/lb/premium97/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/07.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -228,18 +228,18 @@ https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/98.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1 French
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium116/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/14.m3u8
+#https://webdi.openhd.lol/lb/premium116/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 2 French
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium117/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/15.m3u8
+#https://webdi.openhd.lol/lb/premium117/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/15.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 3 French
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://webdi.openhd.lol/lb/premium118/index.m3u8|referer=https://streamservicehd.click/
-#http://warkop.cf/80/bein/16.m3u8
+#https://webdi.openhd.lol/lb/premium118/index.m3u8|referer=https://streamservicehd.click/
+http://warkop.cf/80/bein/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1 Turki
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
