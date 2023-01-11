@@ -1007,6 +1007,9 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #http://210.210.155.37/uq2663/h/h08/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2y328f9gfhwgv76/gem.png" group-title="Hiburan",GEM
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/146.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=kbsworld&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
@@ -1025,7 +1028,8 @@ https://cdn09jtedge.indihometv.com/atemedvr/1672741373/0/BLUEANT_AT/BLUEANT_AT.m
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/p0nol0p732qgarw/boo.png" group-title="Hiburan",BOO
-http://23.237.10.66:16420
+#http://23.237.10.66:16420
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/176.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/piv79y8nqcmzblt/digione.png" group-title="Hiburan",Digione
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
@@ -1050,6 +1054,9 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bcngvz30749b4ha/tic.png" group-title="Hiburan",The Indonesia Channel
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Bioskop Indonesia
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=bioskopindonesia&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
