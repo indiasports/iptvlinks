@@ -124,6 +124,12 @@ https://webdi.openhd.lol/lb/premium33/index.m3u8|referer=https://streamservicehd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webdi.openhd.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",Bein Sports 1 ID
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/82.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lcjqga7gf73toet/beinsports3.png" group-title="Olahraga",Bein Sports 3 ID
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/83.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
@@ -394,6 +400,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/txrhza2co3508cc/fightsports.png" group-title="Olahraga",Fight Sports
 #https://anv-livechannel-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yypex32z12hppoc/combate.png" group-title="Olahraga",Combate
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/118.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/99wmlmrgwwca50z/wwe.png" group-title="Olahraga",WWE Network
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/87.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/836xn3ftyuo5yfb/fite.png" group-title="Olahraga",Fite
 #https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
