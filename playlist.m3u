@@ -6,8 +6,7 @@
 https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cj3kuni4xb02zg5/briliga1.png" group-title="Olahraga",BRI Liga 1
-#https://dl.dropbox.com/s/psv28b2csyofbj8/briliga1.m3u8
-https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/19.ts
+https://dl.dropbox.com/s/psv28b2csyofbj8/briliga1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png" group-title="Olahraga",MLBB World Championship
 https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
