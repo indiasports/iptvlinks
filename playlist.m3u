@@ -641,8 +641,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/v0c8ypclystuwkg/tvone.png" group-title="Lokal",TVOne
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-#https://dl.dropbox.com/s/trjnrffqjvvsiid/tvone.m3u8
-https://geocities.ws/ariev7xx/tvone.m3u8
+https://dl.dropbox.com/s/trjnrffqjvvsiid/tvone.m3u8
+#https://geocities.ws/ariev7xx/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
