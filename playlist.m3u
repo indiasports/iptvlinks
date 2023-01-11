@@ -11,9 +11,6 @@ https://dl.dropbox.com/s/psv28b2csyofbj8/briliga1.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png" group-title="Olahraga",MLBB World Championship
 https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/96ogqr42ssgabs6/proliga.png" group-title="Olahraga",PLN Mobile Proliga
-https://dl.dropbox.com/s/5ajc4o2zjlgj2k4/proliga.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
@@ -524,7 +521,7 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=us
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",Egg Network
-http://210.210.155.37/uq2663/h/h22/index.m3u8
+#http://210.210.155.37/uq2663/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qjmexo3tydyj2sj/duniagames.png" group-title="Olahraga",Dunia Games
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
