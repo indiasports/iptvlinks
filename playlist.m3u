@@ -1055,7 +1055,7 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bcngvz30749b4ha/tic.png" group-title="Hiburan",The Indonesia Channel
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Citra Bioskop
 https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
