@@ -12,12 +12,6 @@ https://dl.dropbox.com/s/mn92oz9mcll7gku/live3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 4
 https://dl.dropbox.com/s/2ul7k8mlv4u1qx4/live4.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 5
-https://dl.dropbox.com/s/cuenauw4zw9rd3u/live5.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 6
-https://dl.dropbox.com/s/wrhtpawn656vepe/live6.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
@@ -137,6 +131,15 @@ https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/163.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png" group-title="Olahraga",BT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://webdi.openhd.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="Olahraga",Champions TV 1
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/270.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="Olahraga",Champions TV 2
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/271.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qn9suq39x9s5gje/championstv5.png" group-title="Olahraga",Champions TV 5
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/282.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",Bein Sports 1 ID
 https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/82.ts
@@ -671,8 +674,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/v0c8ypclystuwkg/tvone.png" group-title="Lokal",TVOne
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-https://dl.dropbox.com/s/trjnrffqjvvsiid/tvone.m3u8
-#https://geocities.ws/ariev7xx/tvone.m3u8
+#https://dl.dropbox.com/s/trjnrffqjvvsiid/tvone.m3u8
+https://geocities.ws/ariev7xx/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
