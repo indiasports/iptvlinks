@@ -1411,7 +1411,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://dl.dropbox.com/s/ejw26xqutq5o9lb/ajwatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1sbyfrehiy3cvk4/rodjatv.png" group-title="Religi",Rodja TV
-https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u2clhi5s7xa8kyr/aliman.png" group-title="Religi",Al-Iman TV
 #https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
