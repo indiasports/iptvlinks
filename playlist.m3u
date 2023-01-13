@@ -12,6 +12,9 @@ https://dl.dropbox.com/s/mn92oz9mcll7gku/live3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 4
 https://dl.dropbox.com/s/2ul7k8mlv4u1qx4/live4.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 4
+https://dl.dropbox.com/s/g2wenz41d17xlmc/live5.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
