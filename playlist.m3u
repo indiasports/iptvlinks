@@ -1132,6 +1132,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wppfj15s8nb8iy6/musictv.png" group-title="Hiburan",Music TV
 https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2ji6mqowjpov5g2/citradangdut.png" group-title="Hiburan",Citra Dangdut
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/149.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2pdxxw7h724f5qu/musica.png" group-title="Hiburan",Musica
 https://dl.dropbox.com/s/mb8357j4ybu2yny/musica.m3u8
 
@@ -1154,7 +1157,7 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8c7u2pa8g4x8th4/useephoto.png" group-title="Rekreasi",Usee Photo
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Rekreasi",Usee Prime
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
