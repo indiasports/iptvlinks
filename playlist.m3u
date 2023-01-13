@@ -495,8 +495,7 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ogtqa4dhapw24gv/nbatv.png" group-title="Olahraga",NBA TV
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=nba&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/dgiriynskk6252f/tennischannel.png" group-title="Olahraga",Tennis Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -548,10 +547,10 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 1
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/84.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 2
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesports2&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/85.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",Egg Network
 #http://210.210.155.37/uq2663/h/h22/index.m3u8
@@ -651,8 +650,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gw7a9w0miy795vy/rtv.png" group-title="Lokal",RTV
 http://210.210.155.37/dr9445/h/h10/index1.m3u8
-#https://dl.dropbox.com/s/kenp5gib6g4d1eo/rtv.m3u8
-#https://geocities.ws/ariev7xx/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1014,7 +1011,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/146.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=kbsworld&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m9kclzq7dvv1f6b/abscbn.png" group-title="Hiburan",ABS CBN
 https://dl.dropbox.com/s/vwi93ecvd1d8nib/abscbn.m3u8
@@ -1028,10 +1025,9 @@ https://cdn09jtedge.indihometv.com/atemedvr/1672741410/0/BLUEANTEXTREME_AT/BLUEA
 https://cdn09jtedge.indihometv.com/atemedvr/1672741373/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yxgzbtsddfwh8rx/flik.png" group-title="Hiburan",FLIK
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=flik&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/29.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/p0nol0p732qgarw/boo.png" group-title="Hiburan",BOO
-#http://23.237.10.66:16420
 https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/176.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/piv79y8nqcmzblt/digione.png" group-title="Hiburan",Digione
@@ -1044,7 +1040,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zq7cxioc6ozam6h/mcn.png" group-title="Hiburan",My Cinema
-#http://210.210.155.37/uq2663/h/h192/index.m3u8
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7u8527kz6az4miv/mca.png" group-title="Hiburan",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
@@ -1062,13 +1058,12 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=bioskopindonesia&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/284.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=dunialain&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/1072.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru
-#http://iptvid.my.id/hmm/seru.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1b304i996n82k8g/rans.png" group-title="Hiburan",RANS Entertainment
 https://dl.dropbox.com/s/qvelkozlr6q6afp/rans.m3u8
@@ -1089,7 +1084,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://anv-livechannel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
-#https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/80.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",Movie Sphere
@@ -1152,7 +1146,6 @@ https://dl.dropbox.com/s/0773jf74ltx0x56/prambors.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1672740559/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
-#http://iptvid.my.id/hmm/musikindo.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vl0ywb3wyem0gt9/maleo.png" group-title="Hiburan",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
@@ -1161,10 +1154,8 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8c7u2pa8g4x8th4/useephoto.png" group-title="Rekreasi",Usee Photo
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Rekreasi",Usee Prime
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w117432352_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4mk33iyjolx7cac/bizadventure.png" group-title="Rekreasi",Biznet Adventure
@@ -1240,7 +1231,7 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lop6wy2iztov2jr/techstorm.png" group-title="Pengetahuan",Tech Storm
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/techstorm/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sefs5wiqna7d46x/lingua.png" group-title="Pengetahuan",Lingua Channel
 https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
@@ -1286,7 +1277,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Cr
 https://anv-livechannel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/83oz1k4zpvq9lnf/ipanda.png" group-title="Pengetahuan",iPanda
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=pandatv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2lx4zr6tnfz9k27/smithsonian.png" group-title="Pengetahuan",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
@@ -1304,7 +1294,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/l1o4b4ghv8mfhxw/mentaritv.png" group-title="Anak",Mentari TV
-#https://dl.dropbox.com/s/wexbmnhxsy2902x/mentaritv.m3u8
 https://geocities.ws/ariev7xx/mentari.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vrzlb4pchkk30az/mkidz.png" group-title="Anak",My Kidz
@@ -1314,11 +1303,9 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9hiphi99cxskl5r/indikids.png" group-title="Anak",IndiKids
-#https://dl.dropbox.com/s/aspq8s2vr9noqgp/indikids.m3u8
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=indikids&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/74.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m16qghw6kto0pgv/horee.png" group-title="Anak",Horee
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=horee&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9rzjsn0q24b37y6/dreamworks.png" group-title="Anak",Dreamworks
 https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
@@ -1327,7 +1314,6 @@ https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
 https://cdn09jtedge.indihometv.com/atemedvr/1672740826/0/DAVINCI_AT/DAVINCI_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vrf4ov330vrnisi/duniaanak.png" group-title="Anak",Dunia Anak
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=duniaanak&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1355,7 +1341,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.m
 https://anv-livechannel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cwqrnd23xzzt6vm/toongoogles.png" group-title="Anak",Toon Googles
-#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
