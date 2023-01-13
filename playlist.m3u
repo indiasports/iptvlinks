@@ -1089,7 +1089,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://anv-livechannel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+#https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/80.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",Movie Sphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
