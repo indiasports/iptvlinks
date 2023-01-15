@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 1
-https://dl.dropbox.com/s/rj6h9l6dr6v1kvi/live1.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 2
-https://dl.dropbox.com/s/4j0ln9xjtun3igs/live2.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 3
-https://dl.dropbox.com/s/mn92oz9mcll7gku/live3.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 4
-https://dl.dropbox.com/s/2ul7k8mlv4u1qx4/live4.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 5
-https://dl.dropbox.com/s/g2wenz41d17xlmc/live5.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
@@ -405,6 +390,46 @@ https://newtest.webtv1.lol/lb/premium402/index.m3u8|referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ik8auuimyrawk7v/digisport.png" group-title="Olahraga",Digi Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium403/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="Olahraga",RMC Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium119/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="Olahraga",RMC Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium120/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="Olahraga",RMC Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium121/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yn9gyp48b3t8mkm/diema.png" group-title="Olahraga",Diema Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium465/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/dm7vd6jjk2k0xsy/diema2.png" group-title="Olahraga",Diema Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium466/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/clt43om27ednz31/diema3.png" group-title="Olahraga",Diema Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium467/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/12rxwhj98zm8jd6/sportklub.png" group-title="Olahraga",Sport Klub 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium101/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/12rxwhj98zm8jd6/sportklub.png" group-title="Olahraga",Sport Klub 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium102/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/12rxwhj98zm8jd6/sportklub.png" group-title="Olahraga",Sport Klub 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium103/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/12rxwhj98zm8jd6/sportklub.png" group-title="Olahraga",Sport Klub 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium104/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/massxi2j5fj1qo8/unifi.png" group-title="Olahraga",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
