@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 1
+https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 2
+https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 3
+https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Olahraga",LIVE 4
+https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
