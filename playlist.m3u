@@ -1082,6 +1082,7 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Citra Bioskop
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
+http://stream2.koudek.my.id/atemedvr/1673609866/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
 
@@ -1494,7 +1495,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/of0n4ndmfiy53rr/uchannel.png" group-title="Religi",U-Channel
-https://cdn09jtedge.indihometv.com/atemedvr/1672741945/0/UCHANNEL_AT/UCHANNEL_AT.mpd
+http://stream2.koudek.my.id/atemedvr/1673616880/0/UCHANNEL_AT/UCHANNEL_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
