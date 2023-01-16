@@ -124,6 +124,15 @@ https://newtest.webtv1.lol/lb/premium33/index.m3u8|referer=https://streamservice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="Olahraga",Champions TV 1
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/270.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="Olahraga",Champions TV 2
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/271.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qn9suq39x9s5gje/championstv5.png" group-title="Olahraga",Champions TV 5
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/282.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",Bein Sports 1 ID
 http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/82.ts
 
