@@ -1111,6 +1111,9 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Citra Bioskop
 http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/285.ts
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/d1wqq4c71746dha/citraentertainment.png" group-title="Hiburan",Citra Entertainment
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/174.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
 https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
