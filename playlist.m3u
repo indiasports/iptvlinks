@@ -125,14 +125,19 @@ https://newtest.webtv1.lol/lb/premium33/index.m3u8|referer=https://streamservice
 https://newtest.webtv1.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="Olahraga",Champions TV 1
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/270.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="Olahraga",Champions TV 2
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/271.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qn9suq39x9s5gje/championstv5.png" group-title="Olahraga",Champions TV 5
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/282.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",Bein Sports 1 ID
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/82.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lcjqga7gf73toet/beinsports3.png" group-title="Olahraga",Bein Sports 3 ID
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/83.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -486,7 +491,8 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99wmlmrgwwca50z/wwe.png" group-title="Olahraga",WWE Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
+#https://newtest.webtv1.lol/lb/premium376/index.m3u8|referer=https://streamservicehd.click/
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/87.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/836xn3ftyuo5yfb/fite.png" group-title="Olahraga",Fite
 #https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
@@ -601,8 +607,10 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 1
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/84.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 2
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/85.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",Egg Network
 #http://210.210.155.37/uq2663/h/h22/index.m3u8
@@ -1054,6 +1062,7 @@ http://1.245.74.5:1935/live/tv/.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2y328f9gfhwgv76/gem.png" group-title="Hiburan",GEM
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/146.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
 https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
@@ -1062,16 +1071,18 @@ https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
 https://dl.dropboxusercontent.com/s/vwi93ecvd1d8nib/abscbn.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" group-title="Hiburan",Rock Action
-#http://210.210.155.37/dr9445/h/h15/index.m3u8
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0ehvpuw8ln8owf2/rockentertainment.png" group-title="Hiburan",Rock Entertainment
-#http://210.210.155.37/dr9445/h/h16/index.m3u8
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANT_AT/BLUEANT_AT.mpd
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yxgzbtsddfwh8rx/flik.png" group-title="Hiburan",FLIK
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/29.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p0nol0p732qgarw/boo.png" group-title="Hiburan",BOO
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/176.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="Hiburan",Digione
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
@@ -1098,11 +1109,13 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Citra Bioskop
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/285.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
 https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/1072.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru
 
@@ -1126,7 +1139,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
+#https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/43.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",Movie Sphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -1173,6 +1187,7 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png" group-title="Hiburan",Citra Dangdut
+http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/149.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2pdxxw7h724f5qu/musica.png" group-title="Hiburan",Musica
 https://dl.dropboxusercontent.com/s/mb8357j4ybu2yny/musica.m3u8
