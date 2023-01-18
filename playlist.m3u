@@ -1292,7 +1292,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8c7u2pa8g4x8th4/useephoto.png" group-title="Rekreasi",Usee Photo
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Rekreasi",Usee Prime
-https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w117432352_b894100_sleng.m3u8
+https://dl.dropboxusercontent.com/s/63uuwp2p1xxb3ke/useeprime.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/4mk33iyjolx7cac/bizadventure.png" group-title="Rekreasi",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
