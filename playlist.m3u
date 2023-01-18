@@ -662,7 +662,7 @@ https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png" group-title="Olahraga",SPOTV 1
-https://anv-livechannel-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -689,7 +689,7 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/tr9cntdpjfw7vvs/mncsports.png" group-title="Olahraga",MNC Sports 3
-https://anv-livechannel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p7y7domrmfxjo1j/tvrisport.png" group-title="Olahraga",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -726,8 +726,8 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png" group-title="Lokal",Moji
-https://dl.dropboxusercontent.com/s/qcoxpjuwsaccqc1/moji.m3u8
-#https://geocities.ws/ariev7xx/moji.m3u8
+#https://dl.dropboxusercontent.com/s/qcoxpjuwsaccqc1/moji.m3u8
+https://geocities.ws/ariev7xx/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png" group-title="Lokal",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
