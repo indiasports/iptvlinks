@@ -573,6 +573,32 @@ https://newtest.webtv1.lol/lb/premium538/index.m3u8|referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aqmnbcytnk7244z/dazn.png" group-title="Olahraga",DAZN F1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/to02le41pvigshs/ssc.png" group-title="Olahraga",SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium9/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/to02le41pvigshs/ssc.png" group-title="Olahraga",SSC Extra 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium5/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/e6vlhb82t8urfo3/adsports1.png" group-title="Olahraga",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/52mbb7vx1l4uke0/adsports2.png" group-title="Olahraga",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0uzffo0lbbxfd29/adsports3.png" group-title="Olahraga",Abu Dhabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/cw9h4hzhxiyqh9z/dubaisports.png" group-title="Olahraga",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/o3qd1a1gpe6ztia/dubaisports2.png" group-title="Olahraga",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png" group-title="Olahraga",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/eroz_brebes.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/massxi2j5fj1qo8/unifi.png" group-title="Olahraga",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -611,24 +637,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/e6vlhb82t8urfo3/adsports1.png" group-title="Olahraga",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/52mbb7vx1l4uke0/adsports2.png" group-title="Olahraga",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0uzffo0lbbxfd29/adsports3.png" group-title="Olahraga",Abu Dhabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/cw9h4hzhxiyqh9z/dubaisports.png" group-title="Olahraga",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/o3qd1a1gpe6ztia/dubaisports2.png" group-title="Olahraga",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png" group-title="Olahraga",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/iip48m7zvvxbi6b/horizon.png" group-title="Olahraga",Horizon Sports
 http://210.210.155.37/uq2663/h/h282/index.m3u8
@@ -862,7 +870,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8bgct35iq7hti3f/garudatv.png" group-title="Lokal",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fylg57wwdyys1ir/indonesianatv.png" group-title="Lokal",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png" group-title="Lokal",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/bw4u1eouvf2n9eg/jpm.png" group-title="Lokal",JPM
