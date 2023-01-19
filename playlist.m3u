@@ -10,7 +10,9 @@ https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
 https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 4
-https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
+#https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium138/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 5
 #https://dl.dropboxusercontent.com/s/44d8lgqm39vgrpd/live5.m3u8
@@ -568,10 +570,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/to02le41pvigshs/ssc.png" group-title="Olahraga",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium9/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/to02le41pvigshs/ssc.png" group-title="Olahraga",SSC Extra 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium5/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/e6vlhb82t8urfo3/adsports1.png" group-title="Olahraga",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
