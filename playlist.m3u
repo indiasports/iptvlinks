@@ -249,7 +249,9 @@ https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="Olahraga",FS1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/13hw65m8ao0zcr8/fs2.png" group-title="Olahraga",FS2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
@@ -272,10 +274,14 @@ https://newtest.webtv1.lol/lb/premium524/index.m3u8|referer=https://streamservic
 https://newtest.webtv1.lol/lb/premium525/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Olahraga",ESPN US
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium44/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Olahraga",ESPN 2 US
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium45/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Olahraga",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -310,7 +316,9 @@ https://newtest.webtv1.lol/lb/premium464/index.m3u8|referer=https://streamservic
 https://newtest.webtv1.lol/lb/premium463/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wu7nzi0qp74u37v/tudn.png" group-title="Olahraga",TUDN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium66/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vt2cqkppjswc0g5/tycsports.png" group-title="Olahraga",TyC Sports
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
@@ -583,35 +591,35 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-042/stream.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",V Sport Premium
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/tzxep5q6i4uyqak/vsport.png" group-title="Olahraga",V Sport Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",V Sport Xtra
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/tzxep5q6i4uyqak/vsport.png" group-title="Olahraga",V Sport Xtra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",V Sport Football
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/tzxep5q6i4uyqak/vsport.png" group-title="Olahraga",V Sport Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",V Sport 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/tzxep5q6i4uyqak/vsport.png" group-title="Olahraga",V Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",V Sport Kanalen
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/tzxep5q6i4uyqak/vsport.png" group-title="Olahraga",V Sport Kanalen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -697,7 +705,9 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ogtqa4dhapw24gv/nbatv.png" group-title="Olahraga",NBA TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium404/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Olahraga",Tennis Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1005,7 +1015,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/i8ymatxqm5rvgsa/foxnews.png" group-title="Berita",Fox News
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium347/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1185,10 +1197,14 @@ https://dl.dropboxusercontent.com/s/byt4m3zqloqwxyz/nhkworld.m3u8
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/oy6dy1g6wc73sh3/e%21.png" group-title="Hiburan",E!
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium315/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7p9tuzikl4pxg3q/fx.png" group-title="Hiburan",FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium381/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zjecc4d8dq1zrc7/sbs.png" group-title="Hiburan",SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
@@ -1321,7 +1337,9 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicCha
 https://dl.dropboxusercontent.com/s/mb8357j4ybu2yny/musica.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium371/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/72n4z8c2rdierlm/prambors.png" group-title="Hiburan",Prambors
 https://dl.dropboxusercontent.com/s/0773jf74ltx0x56/prambors.m3u8
