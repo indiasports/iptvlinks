@@ -1,23 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 2
-#https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1674307772~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=aeabbe2901d151aaed1ae48c736052960c5f2466c3bf14868ecd5e6d029c2cf2/vp9/11683_stream.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
-#https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1674307860~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=4752ebb6a9287470cf5ddb9e870d2c85cd973a02d058aba97febeb6d3682c96c/vp9/11524_stream.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/44d8lgqm39vgrpd/live5.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/y0i23viv9jdj1fy/live6.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
