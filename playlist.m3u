@@ -1,18 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 1
-#https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://anv-livechannel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 2
 #https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1674293220~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=da05ef826b547a220634063b9b7271a90a8e6bd2d4f235d9ff178b54d871a52b/vp9/11683_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1674307772~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=aeabbe2901d151aaed1ae48c736052960c5f2466c3bf14868ecd5e6d029c2cf2/vp9/11683_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
 #https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1674297894~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=c3a14a3451e15653aa70194242dee882731fe0aa7defc52681ef70300254775c/vp9/11524_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1674307860~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=4752ebb6a9287470cf5ddb9e870d2c85cd973a02d058aba97febeb6d3682c96c/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 4
 https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
@@ -1370,10 +1367,17 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicCha
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2pdxxw7h724f5qu/musica.png" group-title="Hiburan",Musica
 https://dl.dropboxusercontent.com/s/mb8357j4ybu2yny/musica.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium371/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Sparkin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/72n4z8c2rdierlm/prambors.png" group-title="Hiburan",Prambors
 https://dl.dropboxusercontent.com/s/0773jf74ltx0x56/prambors.m3u8
