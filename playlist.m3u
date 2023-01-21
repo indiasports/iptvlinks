@@ -11,7 +11,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1674293220~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=da05ef826b547a220634063b9b7271a90a8e6bd2d4f235d9ff178b54d871a52b/vp9/11683_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
-https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
+#https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1674297894~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=c3a14a3451e15653aa70194242dee882731fe0aa7defc52681ef70300254775c/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 4
 https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
