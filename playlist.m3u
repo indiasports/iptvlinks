@@ -833,9 +833,11 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSpor
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn.renotv.my.id/ts.m3u8?ch=MzFhMzY0MTA2Y2VhZWVkY0d5bjlUZDAxL3RjNWxmZlRhc09MbHYvNWc3RTBoSlBFUjVZTG1xMzE1dzFmU3d2VXVMb2QxeDgxSnVMM1NodXdPcjA0TmNpWmtuYmhUY205VlRHU2V3PT0=
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn.renotv.my.id/ts.m3u8?ch=YzIxMmY1NzczZjYyNWZjNTBwbTg0dUR3Vmlzd25IR0o0aExCL1BsbitzTnVWS2ZMUkM4WEp3d2xHK21DK0dMdXVFWFpYSDE4dG5hTEZIL0pjR2lmendXNlA4dkJOT0FqWXFrZVhjZVNnMWZtM0pMUXM2Skd6MWdzQjBzPQ==
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",Egg Network
@@ -1544,7 +1546,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/techstorm/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/sefs5wiqna7d46x/lingua.png" group-title="Pengetahuan",Lingua Channel
 #https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
-https://cdn.renotv.my.id/ts.m3u8?ch=M2EwODc4NjMzYmY3ZDYyY0ZRT1ZPMzhNU1ppb0xiWDk3bm9Yb0ZGMXkyWDg5eTQ2YVR3cUJOWjgxWDJncEl1VXVDVm1jeTJnR1RVSS93RXZ0c2VWRVJaL0NEV2RTU21adSsrZ0RBPT0=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MTJkMTg2OTM2NDQ0M2QzN0wwWGRHaGFTQ2VQYm1hQTYzQ3FsMnJrSlIwcXhIU25Oa2o5WmFWREkzeUhGY0V3ZzhBR3dwdTQxMmFrUTUyaFBnWmc4aysvcU04LzFLdit0c2Uva0Z3PT0=
+https://cdn.renotv.my.id/go/playt/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
