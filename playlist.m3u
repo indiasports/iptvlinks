@@ -1,27 +1,24 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://anv-livechannel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/44d8lgqm39vgrpd/live5.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dl.dropboxusercontent.com/s/y0i23viv9jdj1fy/live6.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Olahraga",Astro Supersport 1
@@ -409,6 +406,10 @@ https://newtest.webtv1.lol/lb/premium71/index.m3u8|referer=https://streamservice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium72/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/abuky0ttd84ka0m/elevensports.png" group-title="Olahraga",Eleven Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium428/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ysdlbp021q4uvm5/eleven.png" group-title="Olahraga",Eleven 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium455/index.m3u8|referer=https://streamservicehd.click/
@@ -647,6 +648,35 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qeDs6mQJWcauyQSh80k0pQ","k":"KE6o5foN5LyQwXwhFI296g"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p096k2ujc0qz7oo/viaplay.png" group-title="Olahraga",Viaplay Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium59/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p096k2ujc0qz7oo/viaplay.png" group-title="Olahraga",Viaplay Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium451/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p096k2ujc0qz7oo/viaplay.png" group-title="Olahraga",Viaplay Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium597/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/gjqrrba1dl6t854/match.png" group-title="Olahraga",Match!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qf39ffykpcn58d6/matchfootball.png" group-title="Olahraga",Match! Futbol 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium136/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qf39ffykpcn58d6/matchfootball.png" group-title="Olahraga",Match! Futbol 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium137/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qf39ffykpcn58d6/matchfootball.png" group-title="Olahraga",Match! Futbol 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium138/index.m3u8|referer=https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/e6vlhb82t8urfo3/adsports1.png" group-title="Olahraga",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
 
@@ -690,6 +720,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yypex32z12hppoc/combate.png" group-title="Olahraga",Combate
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium89/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99wmlmrgwwca50z/wwe.png" group-title="Olahraga",WWE Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -710,11 +742,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="Olahraga",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/gjqrrba1dl6t854/match.png" group-title="Olahraga",Match!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/iip48m7zvvxbi6b/horizon.png" group-title="Olahraga",Horizon Sports
 http://210.210.155.37/uq2663/h/h124/index.m3u8
@@ -1548,7 +1575,9 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9hiphi99cxskl5r/indikids.png" group-title="Anak",IndiKids
-https://dl.dropboxusercontent.com/s/aspq8s2vr9noqgp/indikids.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium369/index.m3u8|referer=https://streamservicehd.click/
+#https://dl.dropboxusercontent.com/s/aspq8s2vr9noqgp/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/m16qghw6kto0pgv/horee.png" group-title="Anak",Horee
 
@@ -1637,13 +1666,17 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3bmtm7171p7ccv4/disneychannel.png" group-title="Anak",Disney Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium312/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="Anak",Disney Junior
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="Anak",Disney XD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium314/index.m3u8|referer=https://streamservicehd.click/
+#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lt2p9nl068qzvy2/ajwatv.png" group-title="Religi",Ajwa TV
 https://dl.dropboxusercontent.com/s/ejw26xqutq5o9lb/ajwatv.m3u8
