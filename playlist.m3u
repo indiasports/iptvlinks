@@ -1619,9 +1619,7 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9hiphi99cxskl5r/indikids.png" group-title="Anak",IndiKids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium369/index.m3u8|referer=https://streamservicehd.click/
-#https://dl.dropboxusercontent.com/s/aspq8s2vr9noqgp/indikids.m3u8
+https://dl.dropboxusercontent.com/s/aspq8s2vr9noqgp/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/m16qghw6kto0pgv/horee.png" group-title="Anak",Horee
 https://cdn.renotv.my.id/get.m3u8?ch=YjBhMDU5N2MwMzFiZTk5M1Q5VFROM0l4ZTFtWkJWVDUwaFpYekZmSGxmcEpCd3B6dCthZEt5RmZLczY4NGt3YmFGWFlQREEvNm0zbHp5TjlKUFBHa1k2eXduWGlYRXp5TlN5Kzh3PT0=
