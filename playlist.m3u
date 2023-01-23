@@ -131,10 +131,10 @@ https://newtest.webtv1.lol/lb/premium33/index.m3u8|referer=https://streamservice
 https://newtest.webtv1.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="Olahraga",Champions TV 1
-https://cdn.renotv.my.id/get.m3u8?ch=YzZiMjE1MzYzNWM2OWEwNVcyMlE1blh0U2lmdklqb1E4VFZ3Y3dsT1N2SGNCd0lHcXZxZzlhZ2FRTzhlSTVXMUc1MHU5enczK09ocDliL0JaZVZNQUk4Wk9HSXJvTWJXV2puQjdBPT0=
+https://dl.dropboxusercontent.com/s/zyvab5sgojvo2x5/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="Olahraga",Champions TV 2
-https://cdn.renotv.my.id/get.m3u8?ch=YmJhNGYwMWQ0MDI5ODA4MlhRd3hXTDlOK09XZzNJdXZ4T1VPZlQrMVFRbmFqWDhoWVB3dEJCUzJNQ3cyemZ2ejlRNFBlalFqZVRNYkVCUGt1TDY4V1NZRFFBMUJwV1NIbTFQeGR3PT0=
+https://dl.dropboxusercontent.com/s/j4k9s0xsuyj9pgq/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/gmtcrfkj7j0fcua/championstv3.png" group-title="Olahraga",Champions TV 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -142,10 +142,10 @@ https://cdn.renotv.my.id/get.m3u8?ch=YmJhNGYwMWQ0MDI5ODA4MlhRd3hXTDlOK09XZzNJdXZ
 https://cdn.renotv.my.id/get.mpd?ch=NWI1NzU4NDUyMjYzNjlhZHRwTHFXM1RvS1N5UWVYVXE4VGFud1gxZm5JN0Q3YVhnanNsd0JJdVdSaFY1UXh2YVF0M2Nsa2paUGZsbnFuRzU4M3VlaTk4S0NQcklqNS8wTXI5NnR3PT0=
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",Bein Sports 1 ID
-https://cdn.renotv.my.id/ts.m3u8?ch=NDdkZjM5YTljOGZjYzQxNkFYL0Jqb0ZmY0dTNDd5MDllUVVheXduUDA5MmdGY3RFU09xWTVNZ2hsa1ZXeXpSbllrMEViTmpjZjg1S2V0UjRPZGRNNTI1UnJPM2dHbHBJRXRGblJBPT0=
+https://dl.dropboxusercontent.com/s/wyfjasguoublfjv/bein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lcjqga7gf73toet/beinsports3.png" group-title="Olahraga",Bein Sports 3 ID
-https://cdn.renotv.my.id/ts.m3u8?ch=M2UwZWM3OGExNjY0YTNjZXNqTzU2RkR5S1U5K25XZWN6cDhmaFdqUFZKUG1aSzZ2a0JnUUJwc0pOSGxTN284alFtY2g5QzJuS2Znd3UvVTFVUXpJN3ZMTHRYMnh6YUZVL1RRTkZRPT0=
+https://dl.dropboxusercontent.com/s/ask7ftjazsif8k6/bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -829,10 +829,10 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSpor
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 1
-https://cdn.renotv.my.id/ts.m3u8?ch=MjYyY2Q1NDk3OTcyM2U3NFRtVzArTmJFQVNWY3VFNDJTQUFORStOR3pWMnoybDRkT21TSmwxRk01eUsxaEdoQzEzdHJrM0kxeEhJNnNNT2lrYWQwWWt0eHdNN3BPYk9uMGpNbmRnPT0=
+https://dl.dropboxusercontent.com/s/8mcb0ixt6dokk6b/useesports1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 2
-https://cdn.renotv.my.id/ts.m3u8?ch=ZDM4YTA2YzQ0Y2U1ZTY4NUVxbFdURmhRZloxbmUzbGFOYzZZT0J3ZHVJeXBraUZIeWdmM2lKUGpNa09RREowRmkwdlM1c0dhNGZHOE9uOE1oREV3ZGphVFdQVmVzVXh6TXF1STM5bmRxOUV6cjNISHQ2SEpxVldQTytvPQ==
+https://dl.dropboxusercontent.com/s/cb8s3iwn8j6gmkq/useesports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",Egg Network
 
@@ -1005,10 +1005,11 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="Lokal",Antara
-https://dl.dropboxusercontent.com/s/k4jhfknr0s1hb0m/antara.m3u8
+https://dl.dropboxusercontent.com/s/uhdtz32bhkhi8nv/antara.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="Lokal",Elshinta TV
-http://rr2.dens.tv/s/s10/index10.m3u8
+#http://rr2.dens.tv/s/s10/index10.m3u8
+https://dl.dropboxusercontent.com/s/q63bj2xzrrxxuun/elshinta.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="Berita",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1553194862_b384000_sleng.m3u8
@@ -1288,7 +1289,7 @@ http://1.245.74.5:1935/live/tv/.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2y328f9gfhwgv76/gem.png" group-title="Hiburan",GEM
-https://cdn.renotv.my.id/ts.m3u8?ch=NWY4MTAxM2FjNDQ4ZmJkMjY5MDlxU3J5aHovUEtkeklvTnBPQzhHY3AwVElNeGp0YmliaGVMOHQrOW1Vd0ZPMXZGRU1SUEZ0K1YrSUlYd0QxbDNRUjhMc0M0bzBHWWJ3Tk1oWVBBPT0=
+https://dl.dropboxusercontent.com/s/zk4xeb0tnw3l4ae/gem.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
 https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
@@ -1305,7 +1306,7 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 #https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yxgzbtsddfwh8rx/flik.png" group-title="Hiburan",FLIK
-https://cdn.renotv.my.id/ts.m3u8?ch=MGFmZGMyMzdkYzRkYzZhN3l3ajJITHl2QUwwUEs5azg2YTFnaUlhZmgvZXpTbzZabmlLamFtOFp2ZzdHSXdyZTlxQzdDcEkvN3NSaWFkWVIxdVhJYWhwRERISnNkZGdXV2U4cGRnPT0=
+https://dl.dropboxusercontent.com/s/ut5si4vy9qxhol2/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p0nol0p732qgarw/boo.png" group-title="Hiburan",BOO
 
@@ -1334,10 +1335,10 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7li2pt114klzmcf/citrabioskop.png" group-title="Hiburan",Citra Bioskop
-https://cdn.renotv.my.id/get.m3u8?ch=OWY4NzNhMGE1YTU2YjIxM1dqWXpuSE5sNGRyVGFBTnVxTjAweFJPK2tjMkxoUXJPZThSL3E5ZUQ3Z1pyY3YxSkhFMEtERllwZ0ZvdS9RUG9NbG1FWHhyZGxBcEY2L01aT3lkNTVRPT0=
+https://dl.dropboxusercontent.com/s/u80zxliqhdpoor7/citrabioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hnpq00cigu9vyfz/citradrama.png" group-title="Hiburan",Citra Drama
-https://cdn.renotv.my.id/get.m3u8?ch=ODI4OGM4ZDdiN2FmYjllNXJYK2FrNHpQWW84Y21Vd0VDMEVJUnp5U2QvU0FoRW1rM0Z1MGlwblkzbXFORWlQOWxLL2krUEJVNUw1NFNqUS9KemRxSjBNb3F2QXRHdjk1RXpjeUFnPT0=
+https://dl.dropboxusercontent.com/s/2gfn572lag6gex2/citradrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
 https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
@@ -1348,12 +1349,10 @@ https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BIOSKOPINDO_AT/BIOSKOPI
 https://cdn.renotv.my.id/go/playt/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=OTZjMzgwYzE3YWU1NTZmMEVycHZhMUlCMVJ2S3R6UElhTDhWbjVvMDV6Q2d6a0h0RlE4YTdMa2ZMOU55MkhvQ2Y1MVorbWlaUG1VS0ZhU2p5SmJiaVBnUlU4WWZIa1dUSXQrQkRRPT0=
-https://cdn.renotv.my.id/go/playt/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+https://dl.dropboxusercontent.com/s/6sgaw6bqr55xw8t/seru.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/1b304i996n82k8g/rans.png" group-title="Hiburan",RANS Entertainment
-https://dl.dropboxusercontent.com/s/qvelkozlr6q6afp/rans.m3u8
+https://dl.dropboxusercontent.com/s/9hbwdc9j3ag9yt3/rans.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1372,7 +1371,8 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
+#https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
+https://dl.dropboxusercontent.com/s/2apwnkzl2r5tjug/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",Movie Sphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -1419,10 +1419,13 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png" group-title="Hiburan",Citra Dangdut
-https://cdn.renotv.my.id/get.m3u8?ch=MzNlZDMzZTA3ODNhMTg4Ni9Ed3dSMUs4QTVjMWtnckRDQXZKT2MyTXBzZmg1QVZTWlYzRDFnTnAvTUtQYlZnTmh6WGd3cmg4eEZOcEFnR01YaWxPVnNBYjJvdkVjRktGWDZPZjJnPT0=
+https://dl.dropboxusercontent.com/s/0chy1y4891wwape/citradangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2pdxxw7h724f5qu/musica.png" group-title="Hiburan",Musica
-https://dl.dropboxusercontent.com/s/mb8357j4ybu2yny/musica.m3u8
+https://dl.dropboxusercontent.com/s/mv7aq7gwopcuzkn/musica.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Live
+https://dl.dropboxusercontent.com/s/z6i50kg3rnjx6k0/mtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
@@ -1437,8 +1440,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/72n4z8c2rdierlm/prambors.png" group-title="Hiburan",Prambors
-#https://dl.dropboxusercontent.com/s/0773jf74ltx0x56/prambors.m3u8
-https://cdn.renotv.my.id/ts.m3u8?ch=ZDRiODkwNGQwZjI4OGYwMVYyRy9WM3lJRlZReEZHZHA2YS8vS1U1cjhlc1RmSTJuWHNZNFE0djN6Z1VlRmsxNEFYc3RCcWJubldxeFk2Zk8rN21UaWVLMkVIeTRqRFg1L2F6SzBWaXJPdFBDV3NjSmFNK0YwRDJoOXdjPQ==
+https://dl.dropboxusercontent.com/s/sapqhrt245sfu28/prambors.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/k03dtjsjy729d04/ikonser.png" group-title="Hiburan",Ikonser
 https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/IKONSER_AT/IKONSER_AT.mpd
@@ -1455,10 +1457,10 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Rekreasi",Usee Prime
-https://dl.dropboxusercontent.com/s/63uuwp2p1xxb3ke/useeprime.m3u8
+https://dl.dropboxusercontent.com/s/u2cb64920lu428y/useeprime.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/k8q7312027dzwo0/citraculinary%26travel.png" group-title="Rekreasi",Citra Culinary & Travel
-https://cdn.renotv.my.id/get.m3u8?ch=YzQ2NTUxYTg4ODZmMDYwMzVZOXpFNWEyYWd4dVdvbE9ieDNOazJsUVVnMGpMb0NPQmhRU0NzeDBMNGhXNXl4MTF5Mlc3YnZTUGR0VU5xMzJaQktxRG5vdjd5Q1NpVmprdkJSL2NCblV0Z1RIblJSNmtVSnQ1OFlaQlZrPQ==
+https://dl.dropboxusercontent.com/s/yxtm3rn40muo88n/citraculinary%26travel.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/4mk33iyjolx7cac/bizadventure.png" group-title="Rekreasi",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
@@ -1476,9 +1478,7 @@ http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 http://210.210.155.35/x6bnqe/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/svqe6tg7fdet4l8/eat%26go.png" group-title="Rekreasi",Eat & Go
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZWQ4NWIyZTYxZTJlNGU2MU1keUFEeWlXWWdKUmsycXlRT1o0d2FFRFRWNFBRdU05cmdYelhncCtXblhrSlBuamtSUG1tYnRGRVdWcWdSaTF0ek5GVXFuSmtRd0RwOExFQTlZZmZBPT0=
-https://cdn.renotv.my.id/go/playt/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+https://dl.dropboxusercontent.com/s/8bou4gst8kix2xm/eat%26go.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1583,7 +1583,10 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Cr
 https://anv-livechannel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/83oz1k4zpvq9lnf/ipanda.png" group-title="Pengetahuan",iPanda
-https://cdn.renotv.my.id/ts.m3u8?ch=YzJlMzRhM2IxNGRiYTZlN0dXVytCeGRBTFF0dXRvT2djZTNyRzBoamhoYjJSbGZEYWRVd25Sam1obzljWSt6VFZ4TnljckVTVzFVUzljb2orRCtnejNHU25saTFlTU9pZkUybTBnPT0=
+https://dl.dropboxusercontent.com/s/r06rvujueeh7p0i/ipanda.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n454zjyk0ih8761/pettv.png" group-title="Pengetahuan",Pet TV
+https://dl.dropboxusercontent.com/s/mlqsxg6cuq5w6ai/pettv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2lx4zr6tnfz9k27/smithsonian.png" group-title="Pengetahuan",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
@@ -1611,10 +1614,13 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9hiphi99cxskl5r/indikids.png" group-title="Anak",IndiKids
-https://dl.dropboxusercontent.com/s/aspq8s2vr9noqgp/indikids.m3u8
+https://dl.dropboxusercontent.com/s/1cmzhsbzszfq6sn/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/m16qghw6kto0pgv/horee.png" group-title="Anak",Horee
-https://cdn.renotv.my.id/get.m3u8?ch=NjJmZWFmN2NhNjlkZmI2ZjY4NzJVRiswdTFUVU9zUWJhRHhzNHMvTitvUm9hYUhDNkFhbGVVUTBRVkJDaEpMMjQzbkEwVnRtekFzRyttSjg4blFSUjVsMEJJcTdhaWFsTVA2UEJ3PT0=
+https://dl.dropboxusercontent.com/s/x47j8aho8ugjjhs/horee.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/87osln4vozhf4p0/hiphiphoree.png" group-title="Anak",Hip Hip Horee
+https://dl.dropboxusercontent.com/s/u6tnxvso18t5m82/hiphiphoree.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9rzjsn0q24b37y6/dreamworks.png" group-title="Anak",Dreamworks
 https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
@@ -1714,10 +1720,10 @@ https://newtest.webtv1.lol/lb/premium314/index.m3u8|referer=https://streamservic
 #http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lt2p9nl068qzvy2/ajwatv.png" group-title="Religi",Ajwa TV
-https://dl.dropboxusercontent.com/s/ejw26xqutq5o9lb/ajwatv.m3u8
+https://dl.dropboxusercontent.com/s/ipwqj47rdgeyy71/ajwatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j7h0mq3pq5hfvcx/citramuslim.png" group-title="Religi",Citra Muslim
-https://cdn.renotv.my.id/get.m3u8?ch=ZGFmNzg3ZjlkZjI3NzQxYmVwVTdJQVAzaGZ1ODBwVUhsYlF1OU4xSDJIc1RITUYzUFBRa2ZEQUFDSEhkbHdGZVlYL28yVURTZkhZZThkOEFXRTNoN3Y1Q2VZZk0wWU83TFR3ZStRPT0=
+https://dl.dropboxusercontent.com/s/ctintq6i3n6v779/citramuslim.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/1sbyfrehiy3cvk4/rodjatv.png" group-title="Religi",Rodja TV
 #https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
