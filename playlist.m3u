@@ -262,10 +262,8 @@ https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="Olahraga",FS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium39/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/13hw65m8ao0zcr8/fs2.png" group-title="Olahraga",FS2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r0m9io07h4dv70b/foxsports.png" group-title="Olahraga",Fox Sports 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -287,12 +285,10 @@ https://newtest.webtv1.lol/lb/premium525/index.m3u8|referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Olahraga",ESPN US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium44/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Olahraga",ESPN 2 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium45/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Olahraga",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -329,10 +325,8 @@ https://newtest.webtv1.lol/lb/premium463/index.m3u8|referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wu7nzi0qp74u37v/tudn.png" group-title="Olahraga",TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium66/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vt2cqkppjswc0g5/tycsports.png" group-title="Olahraga",TyC Sports
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="Olahraga",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
@@ -743,7 +737,6 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/k8hddqr5jltlpf3/adrenalina.png" group-title="Olahraga",Adrenalina Sports Network
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/xnjpimgqm1fv9ej/axstv.png" group-title="Olahraga",AXS TV
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
@@ -778,7 +771,6 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ogtqa4dhapw24gv/nbatv.png" group-title="Olahraga",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium404/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Olahraga",Tennis Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -847,16 +839,16 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #https://geocities.ws/ariev7xx/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="Lokal",SCTV
-#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="Lokal",Indosiar
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #https://geocities.ws/ariev7xx/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="Lokal",Indosiar
-#http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png" group-title="Lokal",Moji
 https://geocities.ws/ariev7xx/moji.m3u8
@@ -910,8 +902,8 @@ https://d-inews.rctiplus.id/INEWS2022.m3u8|referer=https://m.rctiplus.com/
 https://anv-livechannel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9kjgtxf2mufmyd2/transtv.png" group-title="Lokal",Trans TV
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1418834012_b744100_sleng.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1418834012_b744100_sleng.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -919,8 +911,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 https://anv-livechannel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="Lokal",Trans 7
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sleng.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sleng.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -971,7 +963,7 @@ https://av-live-cdn-01.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/uyz3hqsivoxjfvj/balitv.png" group-title="Lokal",Bali TV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BALITV_AT/BALITV_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BALITV_AT/BALITV_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1008,8 +1000,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://dl.dropboxusercontent.com/s/uhdtz32bhkhi8nv/antara.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="Lokal",Elshinta TV
-#http://rr2.dens.tv/s/s10/index10.m3u8
-https://dl.dropboxusercontent.com/s/q63bj2xzrrxxuun/elshinta.m3u8
+http://rr2.dens.tv/s/s10/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="Berita",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1553194862_b384000_sleng.m3u8
@@ -1092,7 +1083,6 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/i8ymatxqm5rvgsa/foxnews.png" group-title="Berita",Fox News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium347/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1274,36 +1264,35 @@ https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&co
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/oy6dy1g6wc73sh3/e%21.png" group-title="Hiburan",E!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium315/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7p9tuzikl4pxg3q/fx.png" group-title="Hiburan",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium381/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zjecc4d8dq1zrc7/sbs.png" group-title="Hiburan",SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qg4jvzdgooy7hq2/k%2B.png" group-title="Hiburan",K+
-#http://210.210.155.37/uq2663/h/h08/index.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2y328f9gfhwgv76/gem.png" group-title="Hiburan",GEM
 https://dl.dropboxusercontent.com/s/zk4xeb0tnw3l4ae/gem.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
-https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/kbsworld/manifest.mpd
+https://dl.dropboxusercontent.com/s/p4l2cdy5jxoglcf/kbsworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/m9kclzq7dvv1f6b/abscbn.png" group-title="Hiburan",ABS CBN
 https://dl.dropboxusercontent.com/s/vwi93ecvd1d8nib/abscbn.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" group-title="Hiburan",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
-#https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
+#https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0ehvpuw8ln8owf2/rockentertainment.png" group-title="Hiburan",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BLUEANT_AT/BLUEANT_AT.mpd
+#https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yxgzbtsddfwh8rx/flik.png" group-title="Hiburan",FLIK
 https://dl.dropboxusercontent.com/s/ut5si4vy9qxhol2/flik.m3u8
@@ -1341,7 +1330,7 @@ https://dl.dropboxusercontent.com/s/u80zxliqhdpoor7/citrabioskop.m3u8
 https://dl.dropboxusercontent.com/s/2gfn572lag6gex2/citradrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1443,7 +1432,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 https://dl.dropboxusercontent.com/s/sapqhrt245sfu28/prambors.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/k03dtjsjy729d04/ikonser.png" group-title="Hiburan",Ikonser
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/IKONSER_AT/IKONSER_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1502,11 +1491,9 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/s2g4o52u945mtc3/outdoor.png" group-title="Rekreasi",Outdoor
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/cryejf1tncokws9/outside.png" group-title="Rekreasi",Outside
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/626
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/727d0y4ile37ep2/fishingtv.png" group-title="Rekreasi",Fishing TV
@@ -1536,11 +1523,11 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lop6wy2iztov2jr/techstorm.png" group-title="Pengetahuan",Tech Storm
-https://cdn09jtedge.indihometv.com/dvr/139/techstorm/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+#https://dl.dropboxusercontent.com/s/fxdqi9ihnagf3ch/techstorm.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/sefs5wiqna7d46x/lingua.png" group-title="Pengetahuan",Lingua Channel
-#https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
-https://cdn.renotv.my.id/ts.m3u8?ch=YjIwOTQwZjljYTk0OTFmOFNpZzZaR2s4OFhDaVhnMTVBTDArTlppYWl6VTNwNm90WEw1QmZRYlAwRjJrVk5jWXlFcnJYU3l3aUdqeDVGelJTSkxsZEZDbEp2OWl0cm85dUtXV2dnPT0=
+https://dl.dropboxusercontent.com/s/6c5nhjq323giqoc/lingua.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1623,13 +1610,14 @@ https://dl.dropboxusercontent.com/s/x47j8aho8ugjjhs/horee.m3u8
 https://dl.dropboxusercontent.com/s/u6tnxvso18t5m82/hiphiphoree.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9rzjsn0q24b37y6/dreamworks.png" group-title="Anak",Dreamworks
-https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
+https://dl.dropboxusercontent.com/s/c0iqfx0kri3636r/dreamworks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/xv9b9euuyorwc2p/davinci.png" group-title="Anak",Da Vinci
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/DAVINCI_AT/DAVINCI_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/DAVINCI_AT/DAVINCI_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vrf4ov330vrnisi/duniaanak.png" group-title="Anak",Dunia Anak
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/DUNIAANAK_AT/DUNIAANAK_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/DUNIAANAK_AT/DUNIAANAK_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1709,15 +1697,12 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3bmtm7171p7ccv4/disneychannel.png" group-title="Anak",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium312/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="Anak",Disney Junior
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="Anak",Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium314/index.m3u8|referer=https://streamservicehd.click/
-#http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lt2p9nl068qzvy2/ajwatv.png" group-title="Religi",Ajwa TV
 https://dl.dropboxusercontent.com/s/ipwqj47rdgeyy71/ajwatv.m3u8
@@ -1795,7 +1780,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/of0n4ndmfiy53rr/uchannel.png" group-title="Religi",U-Channel
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/UCHANNEL_AT/UCHANNEL_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/UCHANNEL_AT/UCHANNEL_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
