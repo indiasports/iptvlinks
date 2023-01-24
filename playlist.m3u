@@ -137,19 +137,12 @@ https://dl.dropboxusercontent.com/s/zyvab5sgojvo2x5/championstv1.m3u8
 https://dl.dropboxusercontent.com/s/j4k9s0xsuyj9pgq/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/gmtcrfkj7j0fcua/championstv3.png" group-title="Olahraga",Champions TV 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=OWJhYjRiOWUyNDlhZWE3ZFUyZEdSVzk1bndjZUExUXNIOTYzbEVLV25lbmM0aGRSWUhMeUZzZDVrNEFlTTY5VnlrQnhVWlN3bGNoUkNYUUJYNXRTV3FnNUdUOTlSbHdxc0lId0R3PT0=
-https://cdn.renotv.my.id/get.mpd?ch=M2Y1NmVjMzUxMWRlNWU2ZDhiU1RvMnVBbktxbWJSakFvV2N1WUF1Nm9wcnd3OFI5QXJtWmxwSUdPSDEydVd5V01MRUR5dVZSb1JZTDJQQlRHMkMxLzVnZ1FjdFk4VDM0K2pQcXJjTVlUNVdHNVRTVHA5UmNQTlByekRBPQ==
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",Bein Sports 1 ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZTAwMTJmZTAwYWI3ODZlZER0Tkh6RVJkNlhQSkNZcHVtQnRVYW92WVh5NVBQcnI0bUhuWXBhb2dTS0dXdGpFL0Q4REVBcXZsYVluZHRCeDNaN1oybG9KelNhajVlZnUwN1hRU05DdVdKWG15aE1Bb2pVZTFldGFCQWJFPQ==
-https://cdn.renotv.my.id/get.mpd?ch=OTA5YWNkMDBhYzliMTk2YXk3cWFZOThmSHdmMmFDZGgwYm9rUUFQOVBySC8rTXQ1aGl1UW43enRZcnltcFViN2tNU2lSUmhPRWtNa1JvZGtDSjlKb2FKNVJIbnZPWFFEYmlwU1RFUG9tRXlCMTBUOGw3RjdsRjJJSVVjPQ==
+https://dl.dropboxusercontent.com/s/wyfjasguoublfjv/bein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lcjqga7gf73toet/beinsports3.png" group-title="Olahraga",Bein Sports 3 ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MTIzYjI0MWI1NmNmZWZmZjVIUHFMTmxSUFluVG4ydlo3djNvMm44SmNRK000MWJqcTF2cEdoMWpHK1BsUGdGVE82dmppZS84OXdWVCtkNGlaQllIcG9ZN0htOUpZRThqUkJ0SC8vRjFFd0pxSXVvTHZMMjRPSHdrZC9ZPQ==
-https://cdn.renotv.my.id/get.mpd?ch=ZTYwMmE5MmYyODg3YWNmNkNZOUVUR0JmKzFyaHlxZk9KTFdVQWx1QWRjSnNDVUZNNk5yeCtVMjVMSXBRbUM3eEREQjdrbElNUHA3eERiell6R0ZLVFc0Sk9tN1l6T1NEQmpMalM3Vnl3NWhQS3YweHRFMVFCY202SGhnPQ==
+https://dl.dropboxusercontent.com/s/ask7ftjazsif8k6/bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1337,9 +1330,6 @@ https://dl.dropboxusercontent.com/s/2gfn572lag6gex2/citradrama.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=NGE0MjRkYWQwMzE5NTQ1NVZYU2hBMnhhYklldnFvWW93bUlscklqZTVHM25aK2ZSWHpsaEc5d0t5WGRsQzkzUG9XTy9BUU1SUTRDY1p1MzJXajFPUG85TU1lbDNwRCtjRE4yRXJnelc4VDN6cldDTW1VREdCR1N4UDVrPQ==
-https://cdn.renotv.my.id/go/playt/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru
 https://dl.dropboxusercontent.com/s/6sgaw6bqr55xw8t/seru.m3u8
@@ -1439,9 +1429,7 @@ https://dl.dropboxusercontent.com/s/sapqhrt245sfu28/prambors.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZTE4OTE2OTZkM2RiYzc0OWQvVGNRNmxqTHRFaWQ1QlRla1BXZERKWWxLcjNBRzdjVGx6WmJtSi9jSXdhazJzaUF3eHlrZko1d3pXSnM0Rk4vOWdkVXBzRG5PUHByNlhsSmkvVk9pQ0lPblJxcGRQcDQwbnJueHA4WTRnPQ==
-https://cdn.renotv.my.id/go/playt/2/4028c685730a4243017317dee5df1572/manifest.mpd
+https://dl.dropboxusercontent.com/s/2abpmq1bozyurw5/musikindo.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vl0ywb3wyem0gt9/maleo.png" group-title="Hiburan",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
