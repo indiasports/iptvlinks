@@ -1003,7 +1003,7 @@ https://av-live-cdn-01.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-name="Bali TV" tvg-logo="https://dl.dropboxusercontent.com/s/uyz3hqsivoxjfvj/balitv.png" group-title="Lokal",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BALITV_AT/BALITV_AT.mpd
+#https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/BALITV_AT/BALITV_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1332,11 +1332,11 @@ https://dl.dropboxusercontent.com/s/vwi93ecvd1d8nib/abscbn.m3u8
 
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" tvg-logo="https://dl.dropboxusercontent.com/s/umi818y69btr6uq/rockaction.png" group-title="Hiburan",ROCK Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
-#https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
+#https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/0ehvpuw8ln8owf2/rockentertainment.png" group-title="Hiburan",ROCK Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BLUEANT_AT/BLUEANT_AT.mpd
+#https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/yxgzbtsddfwh8rx/flik.png" group-title="Hiburan",FLIK
 https://dl.dropboxusercontent.com/s/ut5si4vy9qxhol2/flik.m3u8
@@ -1374,7 +1374,7 @@ https://dl.dropboxusercontent.com/s/u80zxliqhdpoor7/citrabioskop.m3u8
 https://dl.dropboxusercontent.com/s/2gfn572lag6gex2/citradrama.m3u8
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
-https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://dl.dropboxusercontent.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
 https://dl.dropboxusercontent.com/s/p0r1mpvevjxhqzj/dunialain.m3u8
@@ -1467,7 +1467,7 @@ https://dl.dropboxusercontent.com/s/mv7aq7gwopcuzkn/musica.m3u8
 https://dl.dropboxusercontent.com/s/sapqhrt245sfu28/prambors.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/k03dtjsjy729d04/ikonser.png" group-title="Hiburan",Ikonser
-https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/IKONSER_AT/IKONSER_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
 https://dl.dropboxusercontent.com/s/2abpmq1bozyurw5/musikindo.m3u8
@@ -1666,10 +1666,10 @@ https://dl.dropboxusercontent.com/s/u6tnxvso18t5m82/hiphiphoree.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="https://dl.dropboxusercontent.com/s/xv9b9euuyorwc2p/davinci.png" group-title="Anak",Da Vinci
-https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/DAVINCI_AT/DAVINCI_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DAVINCI_AT/DAVINCI_AT.mpd
 
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-name="Dunia Anak" tvg-logo="https://dl.dropboxusercontent.com/s/vrf4ov330vrnisi/duniaanak.png" group-title="Anak",Dunia Anak
-https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/DUNIAANAK_AT/DUNIAANAK_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DUNIAANAK_AT/DUNIAANAK_AT.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/kvb9js4r8mk9wjk/deikids.png" group-title="Anak",Dei Kids
 https://h1.intechmedia.net/intech/ch80.m3u8
@@ -1759,7 +1759,7 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium312/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-name="Disney Junior East tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="Anak",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-name="Disney Junior East" tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="Anak",Disney Junior
 
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD East" tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="Anak",Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1845,7 +1845,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UChannel.id" tvg-name="U Channel" tvg-logo="https://dl.dropboxusercontent.com/s/of0n4ndmfiy53rr/uchannel.png" group-title="Religi",U Channel
-https://cdn09jtedge.indihometv.com/atemedvr/1674475403/0/UCHANNEL_AT/UCHANNEL_AT.mpd
+https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/UCHANNEL_AT/UCHANNEL_AT.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
