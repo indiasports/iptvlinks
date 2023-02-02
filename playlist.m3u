@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 1
 #https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1675330789~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=1e8538e0e304116cbff040fcec2e78529aa08cef31c15a6556affda576c60e89/vp9/11683_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1675342738~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=ec563b5f5822fa18141f4609e241069db18f1fc962325be3421f4d879b037363/vp9/11683_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 2
 #https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1675330876~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=ef3a081163cd3443e8f6a7b2172d8f3272c046d19e541927616c4e77d9dd4089/vp9/11524_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1675342826~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=cd60c174966b2a53db3d53f9ccc67c710820be82ec6ae82f9e810a47e15f2a5a/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
 https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
