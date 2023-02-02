@@ -1481,9 +1481,6 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" tvg-logo="https://dl.dropboxusercontent.com/s/5z4acgmfhm2i3lx/molahits.png" group-title="Hiburan",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live" tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Live
-https://dl.dropboxusercontent.com/s/z6i50kg3rnjx6k0/mtvlive.m3u8
-
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" group-title="Hiburan",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
@@ -1497,7 +1494,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-id="UseePrime.id" tvg-name="Usee Prime" tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Rekreasi",Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w117432352_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CitraCulinaryTravel.id" tvg-name="Citra Culinary & Travel" tvg-logo="https://dl.dropboxusercontent.com/s/k8q7312027dzwo0/citraculinary%26travel.png" group-title="Rekreasi",Citra Culinary & Travel
 https://dl.dropboxusercontent.com/s/yxtm3rn40muo88n/citraculinary%26travel.m3u8
