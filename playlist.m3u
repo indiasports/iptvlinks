@@ -131,10 +131,10 @@ https://newtest.webtv1.lol/lb/premium33/index.m3u8|referer=https://streamservice
 https://newtest.webtv1.lol/lb/premium34/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://dl.dropboxusercontent.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="Olahraga",Champions TV 1
-https://dl.dropboxusercontent.com/s/zyvab5sgojvo2x5/championstv1.m3u8
+#https://dl.dropboxusercontent.com/s/zyvab5sgojvo2x5/championstv1.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://dl.dropboxusercontent.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="Olahraga",Champions TV 2
-https://dl.dropboxusercontent.com/s/j4k9s0xsuyj9pgq/championstv2.m3u8
+#https://dl.dropboxusercontent.com/s/j4k9s0xsuyj9pgq/championstv2.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://dl.dropboxusercontent.com/s/gmtcrfkj7j0fcua/championstv3.png" group-title="Olahraga",Champions TV 3
 
@@ -1736,6 +1736,12 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://dl.dropboxusercontent.com/s/ozc4u9twi5f4917/moonbugkids.png" group-title="Anak",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-name="One Piece" tvg-logo="https://dl.dropboxusercontent.com/s/8vy77xi6lrh9et2/onepiece.png" group-title="Anak",One Piece
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="Naruto.us" tvg-name="Naruto" tvg-logo="https://dl.dropboxusercontent.com/s/s39jp1pge0zaqcn/naruto.png" group-title="Anak",Naruto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-name="Pluto TV Anime All Ages" tvg-logo="https://dl.dropboxusercontent.com/s/d1xjg8x2y7y5d1x/tvanime.png" group-title="Anak",Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
