@@ -1405,8 +1405,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mp
 
 #EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="Paramount Network Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
-https://dl.dropboxusercontent.com/s/2apwnkzl2r5tjug/paramount.m3u8
+https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",MovieSphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -1503,7 +1502,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-id="UseePrime.id" tvg-name="Usee Prime" tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Rekreasi",Usee Prime
-https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w117432352_b894100_sleng.m3u8
+https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CitraCulinaryTravel.id" tvg-name="Citra Culinary & Travel" tvg-logo="https://dl.dropboxusercontent.com/s/k8q7312027dzwo0/citraculinary%26travel.png" group-title="Rekreasi",Citra Culinary & Travel
 https://dl.dropboxusercontent.com/s/yxtm3rn40muo88n/citraculinary%26travel.m3u8
