@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 1
 #https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1675429447~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=9bb0567f0202b5c56ed0912ee59f96b8c6b89ba670af709150a4b02463b6b27d/vp9/11683_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1675441653~acl=/vp9/11683_stream.mpd!/vp9/11683/*!/vp9/*/11683_stream.mpd!/vp9/*/11683/*~hmac=7cf197225943c314349c9e49ab09762c28a8ac130861b2bd441509edbb0f195a/vp9/11683_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 2
 #https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1675428649~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=a400e5c624607e228d3fb7169fb84c4e75414de2b6934351b2445fe610bba940/vp9/11524_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1675441609~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=1b3b94beeae5f08dde00d8bcb38af92bccfcbb35d07d574864efd9b1852af34f/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
 https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
@@ -917,7 +917,7 @@ http://210.210.155.37/uq2663/h/h06/index.m3u8
 https://avi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="Lokal",RCTI
-https://s2.rctiplus.id/rcti-sdi.m3u8|referer=https://m.rctiplus.com/
+https://m-rcti.rctiplus.id/rcti-sdi.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -925,7 +925,7 @@ https://s2.rctiplus.id/rcti-sdi.m3u8|referer=https://m.rctiplus.com/
 https://avi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="Lokal",GTV
-https://s1.rctiplus.id/GTV2021.m3u8|referer=https://m.rctiplus.com/
+https://m-gtv.rctiplus.id/gtv-sdi.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -933,7 +933,7 @@ https://s1.rctiplus.id/GTV2021.m3u8|referer=https://m.rctiplus.com/
 https://avi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="Lokal",MNC TV
-https://s1.rctiplus.id/MNCTV_2021.m3u8|referer=https://m.rctiplus.com/
+https://m-mnctv.rctiplus.id/mnctv-sdi.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -941,7 +941,7 @@ https://s1.rctiplus.id/MNCTV_2021.m3u8|referer=https://m.rctiplus.com/
 https://avi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="INews.id" tvg-name="INews" tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png" group-title="Lokal",INews
-https://m-inews.rctiplus.id/inews2023.m3u8|referer=https://m.rctiplus.com/
+https://m-inews.rctiplus.id/inews-sdi.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
