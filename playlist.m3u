@@ -879,6 +879,9 @@ http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="Billiard TV" tvg-logo="https://dl.dropboxusercontent.com/s/r92bwsqh0djy830/billiardtv.png" group-title="Olahraga",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9cspfnvpgk2425g/kozoom.png" group-title="Olahraga",Kozoom TV
+https://dl.dropboxusercontent.com/s/wreofa2tckukd56/kozoom.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="Lokal",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #https://geocities.ws/ariev7xx/sctv.m3u8
