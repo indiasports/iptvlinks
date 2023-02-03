@@ -4,7 +4,8 @@
 https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 2
-https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
+#https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1675428649~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=a400e5c624607e228d3fb7169fb84c4e75414de2b6934351b2445fe610bba940/vp9/11524_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LIVE 3
 https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
