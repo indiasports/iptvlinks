@@ -1686,6 +1686,9 @@ https://h1.intechmedia.net/intech/ch80.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/pxjwhdagchwqmu5/larva.png" group-title="Anak",Larva
 https://dl.dropboxusercontent.com/s/w1hfhov0bna6t6u/larva.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/oz0d77od0gu35rw/museindonesia.png" group-title="Anak",Muse Indonesia
+https://dl.dropboxusercontent.com/s/xw8ajlpktscw7ee/museindonesia.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax Asia" tvg-logo="https://dl.dropboxusercontent.com/s/6zbrigu3jkrncfr/animax.png" group-title="Anak",Animax
