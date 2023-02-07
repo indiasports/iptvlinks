@@ -1726,7 +1726,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mp
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_2M.m3u8
 
 #EXTINF:-1 tvg-id="iPanda.cn" tvg-name="iPanda" tvg-logo="https://dl.dropboxusercontent.com/s/83oz1k4zpvq9lnf/ipanda.png" group-title="Pengetahuan",iPanda
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/gNGolYPBy2E
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MIA8AKVZ0Yk
 
 #EXTINF:-1 tvg-id="PetTV.id" tvg-name="Pet TV" tvg-logo="https://dl.dropboxusercontent.com/s/n454zjyk0ih8761/pettv.png" group-title="Pengetahuan",Pet TV
 https://dl.dropboxusercontent.com/s/mlqsxg6cuq5w6ai/pettv.m3u8
@@ -1780,7 +1780,7 @@ https://h1.intechmedia.net/intech/ch80.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@larvacartoonvietnam6214/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/oz0d77od0gu35rw/museindonesia.png" group-title="Anak",Muse Indonesia
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@MuseIndonesia/live
+https://dl.dropboxusercontent.com/s/xw8ajlpktscw7ee/museindonesia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
