@@ -866,7 +866,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/782qk0p3nku0xou/mxgp.png" group-title="Olahraga",MXGP
-https://dl.dropboxusercontent.com/s/cu33nf97029ywv5/mxgp.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@motocross/live
 
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-logo="https://dl.dropboxusercontent.com/s/iip48m7zvvxbi6b/horizon.png" group-title="Olahraga",Horizon Sports
 http://210.210.155.37/uq2663/h/h124/index.m3u8
@@ -975,7 +975,7 @@ http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9cspfnvpgk2425g/kozoom.png" group-title="Olahraga",Kozoom TV
-https://dl.dropboxusercontent.com/s/wreofa2tckukd56/kozoom.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/cjzRSphNSqU
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="Lokal",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
@@ -1114,6 +1114,12 @@ https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/BALITV_AT/BALITV_AT.mpd
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://dl.dropboxusercontent.com/s/95l9wobwt5nv5ob/bandungtv.png" group-title="Lokal",Bandung TV
 https://avi-live-channel-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="Lokal",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="Lokal",TVRI World
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://dl.dropboxusercontent.com/s/06wiut4q11q92mc/nusantaratv.png" group-title="Lokal",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -1175,12 +1181,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-name="MNC News" tvg-logo="https://dl.dropboxusercontent.com/s/fdt48n79ul99tn6/mncnews.png" group-title="Berita",MNC News
 https://avi-live-channel-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="Berita",TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png" group-title="Berita",TVRI World
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-logo="https://dl.dropboxusercontent.com/s/yq8zq1gb4cpvgcd/rrinet.png" group-title="Berita",RRI Net
 https://rrinet.rritmb.com/hls/live.m3u8
@@ -1555,22 +1555,22 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicCh
 http://103.226.232.199:8008/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2pdxxw7h724f5qu/musica.png" group-title="Hiburan",Musica
-https://dl.dropboxusercontent.com/s/mb8357j4ybu2yny/musica.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@MusicaStudios/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/72n4z8c2rdierlm/prambors.png" group-title="Hiburan",Prambors
 https://dl.dropboxusercontent.com/s/0773jf74ltx0x56/prambors.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/s3ny3xiqnw4suht/nagaswara.png" group-title="Hiburan",Nagaswara
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@nagaswarafmbgr/live
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/k03dtjsjy729d04/ikonser.png" group-title="Hiburan",Ikonser
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/IKONSER_AT/IKONSER_AT.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
-https://dl.dropboxusercontent.com/s/2abpmq1bozyurw5/musikindo.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/qtjr8dtnerodc5g/kpop.png" group-title="Hiburan",The K-Pop
-https://dl.dropboxusercontent.com/s/i3uqtv1tkm8fdvp/kpop.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@thekpop/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/zf55zgxhsq3fi0p/ncsmusic.png" group-title="Hiburan",NCS Music
-https://dl.dropboxusercontent.com/s/atzw70hkws4k9y3/ncsmusic.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@NCSArcade/live
 
 #EXTINF:-1 tvg-id="PopMusik.id" tvg-name="Pop Musik" tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="Hiburan",Pop Musik
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
@@ -1726,7 +1726,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mp
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_2M.m3u8
 
 #EXTINF:-1 tvg-id="iPanda.cn" tvg-name="iPanda" tvg-logo="https://dl.dropboxusercontent.com/s/83oz1k4zpvq9lnf/ipanda.png" group-title="Pengetahuan",iPanda
-https://dl.dropboxusercontent.com/s/a6fm5cqv2ey35t2/ipanda.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/gNGolYPBy2E
 
 #EXTINF:-1 tvg-id="PetTV.id" tvg-name="Pet TV" tvg-logo="https://dl.dropboxusercontent.com/s/n454zjyk0ih8761/pettv.png" group-title="Pengetahuan",Pet TV
 https://dl.dropboxusercontent.com/s/mlqsxg6cuq5w6ai/pettv.m3u8
@@ -1777,10 +1777,10 @@ https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DUNIAANAK_AT/DUNIAANAK_
 https://h1.intechmedia.net/intech/ch80.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/pxjwhdagchwqmu5/larva.png" group-title="Anak",Larva
-https://dl.dropboxusercontent.com/s/w1hfhov0bna6t6u/larva.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@larvacartoonvietnam6214/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/oz0d77od0gu35rw/museindonesia.png" group-title="Anak",Muse Indonesia
-https://dl.dropboxusercontent.com/s/xw8ajlpktscw7ee/museindonesia.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@MuseIndonesia/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1806,9 +1806,6 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://dl.dropboxusercontent.com/s/6hyo3qmrgg2ng1k/cn.png" group-title="Anak",Cartoon Network
 https://avi-live-channel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/jem5yohn4drfc82/wbkids.png" group-title="Anak",WB Kids
-https://dl.dropboxusercontent.com/s/5t0v3qhbrjxhjme/wbkids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/cwqrnd23xzzt6vm/toongoogles.png" group-title="Anak",Toon Googles
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
@@ -1878,6 +1875,7 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://newtest.webtv1.lol/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-name="Disney Junior East" tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="Anak",Disney Junior
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@disneyjunior/live
 
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD East" tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="Anak",Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1927,6 +1925,9 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/45lg2dmiccusryz/tvmu.png" group-title="Religi",TV Muhammadiyah
 https://avi-live-channel-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/vjx465avytw2fvh/tvnu.png" group-title="Religi",TVNU
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@tvnu_id/live
 
 #EXTINF:-1 tvg-id="BRTV.id" tvg-name="BRTV" tvg-logo="https://dl.dropboxusercontent.com/s/0g6qro3q2tswpzi/badartv.png" group-title="Religi",Badar TV
 https://e1.siar.us/badartv/live/playlist.m3u8
