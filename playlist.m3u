@@ -154,18 +154,18 @@ https://no2.webtv1.lol/lb/premium33/index.m3u8
 https://no2.webtv1.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://dl.dropboxusercontent.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="Olahraga",Champions TV 1
-#https://dl.dropboxusercontent.com/s/zyvab5sgojvo2x5/championstv1.m3u8
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://dl.dropboxusercontent.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="Olahraga",Champions TV 2
-#https://dl.dropboxusercontent.com/s/j4k9s0xsuyj9pgq/championstv2.m3u8
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://dl.dropboxusercontent.com/s/gmtcrfkj7j0fcua/championstv3.png" group-title="Olahraga",Champions TV 3
 
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="beIN Sports 1 Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/o4xxriiiks2iu48/beinsports1.png" group-title="Olahraga",beIN Sports 1 Indonesia
-https://dl.dropboxusercontent.com/s/wyfjasguoublfjv/bein1.m3u8
+http://iptvid.my.id/hmm/bein1.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="beIN Sports 3 Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/lcjqga7gf73toet/beinsports3.png" group-title="Olahraga",beIN Sports 3 Indonesia
-https://dl.dropboxusercontent.com/s/ask7ftjazsif8k6/bein2.m3u8
+http://iptvid.my.id/hmm/bein2.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Olahraga",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -968,10 +968,10 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSpo
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 1
-https://dl.dropboxusercontent.com/s/8mcb0ixt6dokk6b/useesports1.m3u8
+http://iptvid.my.id/hmm/useesport.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="Olahraga",Usee Sports 2
-https://dl.dropboxusercontent.com/s/cb8s3iwn8j6gmkq/useesports2.m3u8
+http://iptvid.my.id/hmm/useesports2.m3u8
 
 #EXTINF:-1 tvg-id="eGGNetwork.my" tvg-name="eGG Network" tvg-logo="https://dl.dropboxusercontent.com/s/oqx601ru3q4fwi8/egg.png" group-title="Olahraga",eGG Network
 #http://210.210.155.37/uq2663/h/h22/index.m3u8
@@ -1157,7 +1157,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="Lokal",Antara
-https://dl.dropboxusercontent.com/s/k4jhfknr0s1hb0m/antara.m3u8
+http://iptvid.my.id/hmm/antara.m3u8
 
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://dl.dropboxusercontent.com/s/flw2fsxdl8z32j3/jowo.png" group-title="Lokal",Channel Jowo
 http://103.226.232.170:9002/play/a00f/index.m3u8
@@ -1429,7 +1429,7 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="GEM" tvg-logo="https://dl.dropboxusercontent.com/s/2y328f9gfhwgv76/gem.png" group-title="Hiburan",GEM
-https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
+http://iptvid.my.id/hmm/sgem.m3u8
 
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://dl.dropboxusercontent.com/s/6dsa9oe7uzjdx1j/kbsworld.png" group-title="Hiburan",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -1476,16 +1476,16 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 https://dl.dropboxusercontent.com/s/u80zxliqhdpoor7/citrabioskop.m3u8
 
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="Citra Drama" tvg-logo="https://dl.dropboxusercontent.com/s/hnpq00cigu9vyfz/citradrama.png" group-title="Hiburan",Citra Drama
-https://dl.dropboxusercontent.com/s/2gfn572lag6gex2/citradrama.m3u8
+http://iptvid.my.id/hmm/cdrama.m3u8
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/8xkpm1bnsuglgvu/bioskop.png" group-title="Hiburan",Bioskop Indonesia
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
 
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://dl.dropboxusercontent.com/s/jqrptzwacpcv4g1/dunialain.png" group-title="Hiburan",Dunia Lain
-https://dl.dropboxusercontent.com/s/p0r1mpvevjxhqzj/dunialain.m3u8
+http://iptvid.my.id/hmm/dunialain.m3u8
 
 #EXTINF:-1 tvg-id="SeruChannel.id" tvg-name="Seru! Channel" tvg-logo="https://dl.dropboxusercontent.com/s/jjvgudpjghgcis0/seru.png" group-title="Hiburan",Seru! Channel
-https://dl.dropboxusercontent.com/s/6sgaw6bqr55xw8t/seru.m3u8
+http://iptvid.my.id/hmm/seru.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/1b304i996n82k8g/rans.png" group-title="Hiburan",RANS Entertainment
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8241.m3u8
@@ -1508,7 +1508,8 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mp
 #EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="Paramount Network Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/ks8i6wtocqqt2za/paramount.png" group-title="Hiburan",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.webtv1.lol/lb/premium334/index.m3u8
+#https://no2.webtv1.lol/lb/premium334/index.m3u8
+http://iptvid.my.id/hmm/paramount.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://dl.dropboxusercontent.com/s/akkdiokk54g6oel/moviesphere.png" group-title="Hiburan",MovieSphere
 http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -1569,7 +1570,10 @@ http://103.226.232.199:8008/play/a00x/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@MusicaStudios/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/72n4z8c2rdierlm/prambors.png" group-title="Hiburan",Prambors
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7004.m3u8
+http://iptvid.my.id/hmm/pramborstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Hiburan",Musik Indonesia
+http://iptvid.my.id/hmm/musikindo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/s3ny3xiqnw4suht/nagaswara.png" group-title="Hiburan",Nagaswara
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@nagaswarafmbgr/live
@@ -1626,7 +1630,7 @@ http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 http://210.210.155.35/x6bnqe/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-id="EatNGo.id" tvg-name="Eat N Go" tvg-logo="https://dl.dropboxusercontent.com/s/svqe6tg7fdet4l8/eat%26go.png" group-title="Rekreasi",Eat & Go
-https://dl.dropboxusercontent.com/s/8bou4gst8kix2xm/eat%26go.m3u8
+http://iptvid.my.id/hmm/eatgo.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1688,7 +1692,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://103.226.232.170:9002/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="LinguaChannel.id" tvg-name="Lingua Channel" tvg-logo="https://dl.dropboxusercontent.com/s/sefs5wiqna7d46x/lingua.png" group-title="Pengetahuan",Lingua Channel
-https://dl.dropboxusercontent.com/s/6c5nhjq323giqoc/lingua.m3u8
+http://iptvid.my.id/hmm/lingua.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1737,7 +1741,8 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mp
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_2M.m3u8
 
 #EXTINF:-1 tvg-id="iPanda.cn" tvg-name="iPanda" tvg-logo="https://dl.dropboxusercontent.com/s/83oz1k4zpvq9lnf/ipanda.png" group-title="Pengetahuan",iPanda
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MIA8AKVZ0Yk
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MIA8AKVZ0Yk
+http://iptvid.my.id/hmm/pandatv.m3u8
 
 #EXTINF:-1 tvg-id="PetTV.id" tvg-name="Pet TV" tvg-logo="https://dl.dropboxusercontent.com/s/n454zjyk0ih8761/pettv.png" group-title="Pengetahuan",Pet TV
 https://dl.dropboxusercontent.com/s/mlqsxg6cuq5w6ai/pettv.m3u8
@@ -1767,7 +1772,7 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 #http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-id="IndiKids.id" tvg-name="IndiKids" tvg-logo="https://dl.dropboxusercontent.com/s/9hiphi99cxskl5r/indikids.png" group-title="Anak",IndiKids
-https://dl.dropboxusercontent.com/s/aspq8s2vr9noqgp/indikids.m3u8
+http://iptvid.my.id/hmm/indikids.m3u8
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee!" tvg-logo="https://dl.dropboxusercontent.com/s/m16qghw6kto0pgv/horee.png" group-title="Anak",Horee!
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6397.m3u8
@@ -1776,7 +1781,7 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6397.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-name="DreamWorks Channel Asia" tvg-logo="https://dl.dropboxusercontent.com/s/9rzjsn0q24b37y6/dreamworks.png" group-title="Anak",Dreamworks
-https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
+http://iptvid.my.id/hmm/dreamworks.m3u8
 
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="https://dl.dropboxusercontent.com/s/xv9b9euuyorwc2p/davinci.png" group-title="Anak",Da Vinci
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DAVINCI_AT/DAVINCI_AT.mpd
